@@ -1,0 +1,20 @@
+{
+    "descriptions": [
+      {
+        "datatype": "anat",
+        "suffix": "SAG_3D_T1_ACCELERATED",
+        "criteria": {
+          "SeriesDescription": "*SAG_3D_T1_ACCELERATED*"
+        }
+        
+      },
+      {
+        "datatype": "anat",
+        "suffix": "FLAIR_SAG_3D",
+        "criteria": {
+          "SeriesDescription": "*FLAIR_SAG_3D*"
+        }
+        
+      }
+    ]
+  }

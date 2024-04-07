@@ -1,0 +1,36 @@
+2024-04-06 19:14:56.265 - INFO     - dcm2bids.main | --- dcm2bids start ---
+2024-04-06 19:14:56.265 - INFO     - dcm2bids.main | Running the following command: C:\Users\ADMH2\AppData\Local\Programs\Python\Python311\Scripts\dcm2bids -d sourcedata//0001 -p 0001 -c code/dcm2bids_config.json --auto_extract_entities -o Tumor/
+2024-04-06 19:14:56.291 - INFO     - dcm2bids.main | OS version: Windows-10-10.0.22631-SP0
+2024-04-06 19:14:56.291 - INFO     - dcm2bids.main | Python version: 3.11.5 (tags/v3.11.5:cce6ba9, Aug 24 2023, 14:38:34) [MSC v.1936 64 bit (AMD64)]
+2024-04-06 19:14:56.291 - INFO     - dcm2bids.main | dcm2bids version: 3.1.1
+2024-04-06 19:14:56.486 - INFO     - dcm2bids.main | dcm2niix version: v1.0.20240202
+2024-04-06 19:14:56.486 - INFO     - dcm2bids.main | Checking for software update
+2024-04-06 19:14:56.948 - INFO     - tools.check_latest | Currently using the latest version of dcm2bids.
+2024-04-06 19:14:57.450 - INFO     - tools.check_latest | Currently using the latest version of dcm2niix.
+2024-04-06 19:14:57.450 - INFO     - dcm2bids.main | participant: sub-0001
+2024-04-06 19:14:57.451 - INFO     - dcm2bids.main | config: C:\Users\ADMH2\Desktop\Noveno Semestre\Procesamiento Digital de Imagenes\ImagenesMedicas\dcm2bids-trabajo\bids_project\code\dcm2bids_config.json
+2024-04-06 19:14:57.451 - INFO     - dcm2bids.main | BIDS directory: C:\Users\ADMH2\Desktop\Noveno Semestre\Procesamiento Digital de Imagenes\ImagenesMedicas\dcm2bids-trabajo\bids_project\Tumor
+2024-04-06 19:14:57.451 - INFO     - dcm2bids.main | Auto extract entities: True
+2024-04-06 19:14:57.452 - INFO     - dcm2bids.main | Validate BIDS: False
+
+2024-04-06 19:14:57.459 - INFO     - utils.run_shell_command | Running: dcm2niix -b y -ba y -z y -f %3s_%f_%p_%t -o Tumor\tmp_dcm2bids\sub-0001 sourcedata\0001
+2024-04-06 19:15:00.991 - DEBUG    - dcm2niix_gen.execute | 
+Chris Rorden's dcm2niiX version v1.0.20240202  (JP2:OpenJPEG) (JP-LS:CharLS) MSC1938  (64-bit Windows)
+Found 422 DICOM file(s)
+Warning: Unable to determine manufacturer (0008,0070), so conversion is not tuned for vendor.
+Convert 211 DICOM as Tumor\tmp_dcm2bids\sub-0001\001_0001_FLAIR_SAG_3D_20230802140119 (205x235x211x1)
+Warning: Unable to determine manufacturer (0008,0070), so conversion is not tuned for vendor.
+Convert 211 DICOM as Tumor\tmp_dcm2bids\sub-0001\001_0001_SAG_3D_T1_ACCELERATED_20230802140119 (205x235x211x1)
+Conversion required 3.395000 seconds.
+
+2024-04-06 19:15:00.992 - INFO     - dcm2niix_gen.execute | Check log file for dcm2niix output
+
+2024-04-06 19:15:00.993 - INFO     - sidecar.build_acquisitions | SIDECAR PAIRING
+2024-04-06 19:15:00.993 - WARNING  - acquisition.setDstFile | There was more than one suffix found (['FLAIR', 'SAG', '3D']). This is not BIDS compliant. Make sure you know what you are doing.
+2024-04-06 19:15:00.993 - INFO     - sidecar.build_acquisitions | sub-0001_FLAIR_SAG_3D  <-  001_0001_FLAIR_SAG_3D_20230802140119
+2024-04-06 19:15:00.993 - WARNING  - acquisition.setDstFile | There was more than one suffix found (['SAG', '3D', 'T1', 'ACCELERATED']). This is not BIDS compliant. Make sure you know what you are doing.
+2024-04-06 19:15:00.993 - INFO     - sidecar.build_acquisitions | sub-0001_SAG_3D_T1_ACCELERATED  <-  001_0001_SAG_3D_T1_ACCELERATED_20230802140119
+2024-04-06 19:15:00.993 - INFO     - dcm2bids_gen.run | Moving acquisitions into BIDS folder "Tumor\sub-0001".
+
+2024-04-06 19:15:01.01 - INFO     - dcm2bids.main | Logs saved in Tumor\tmp_dcm2bids\log\sub-0001_20240406-191456.log
+2024-04-06 19:15:01.01 - INFO     - dcm2bids.main | --- dcm2bids end ---

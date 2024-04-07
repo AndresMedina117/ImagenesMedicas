@@ -1,0 +1,20 @@
+{
+	"Modality": "MR",
+	"ManufacturersModelName": "Unknown model",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "SAG_3D_T1_ACCELERATED",
+	"ProtocolName": "SAG_3D_T1_ACCELERATED",
+	"ImageType": ["ORIGINAL", "PRIMARY", "MPR"],
+	"SeriesNumber": 1,
+	"SliceThickness": 1,
+	"SpacingBetweenSlices": 1,
+	"ImageOrientationPatientDICOM": [
+		-0.0430156,
+		0.999005,
+		0.0117335,
+		-0.025947,
+		0.0106234,
+		-0.999607	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20240202"
+}

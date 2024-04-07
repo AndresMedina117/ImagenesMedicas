@@ -1,0 +1,25 @@
+2024-04-04 01:14:54.529 - INFO     - dcm2bids_helper.main | --- dcm2bids_helper start ---
+2024-04-04 01:14:54.530 - INFO     - dcm2bids_helper.main | Running the following command: C:\Users\ADMH2\AppData\Local\Programs\Python\Python311\Scripts\dcm2bids_helper -d sourcedata/0001
+2024-04-04 01:14:54.607 - INFO     - dcm2bids_helper.main | OS version: Windows-10-10.0.22631-SP0
+2024-04-04 01:14:54.608 - INFO     - dcm2bids_helper.main | Python version: 3.11.5 (tags/v3.11.5:cce6ba9, Aug 24 2023, 14:38:34) [MSC v.1936 64 bit (AMD64)]
+2024-04-04 01:14:54.608 - INFO     - dcm2bids_helper.main | dcm2bids version: 3.1.1
+2024-04-04 01:14:54.919 - INFO     - dcm2bids_helper.main | dcm2niix version: v1.0.20240202
+2024-04-04 01:14:54.920 - INFO     - dcm2bids_helper.main | Checking for software update
+2024-04-04 01:14:55.466 - INFO     - tools.check_latest | Currently using the latest version of dcm2bids.
+2024-04-04 01:14:56.152 - INFO     - tools.check_latest | Currently using the latest version of dcm2niix.
+2024-04-04 01:14:56.155 - INFO     - utils.run_shell_command | Running: dcm2niix -b y -ba y -z y -f %3s_%f_%p_%t -o C:\Users\ADMH2\Desktop\Noveno Semestre\Procesamiento Digital de Imagenes\ImagenesMedicas\dcm2bids-trabajo\bids_project\tmp_dcm2bids\helper sourcedata/0001
+2024-04-04 01:15:01.840 - DEBUG    - dcm2niix_gen.execute | 
+Chris Rorden's dcm2niiX version v1.0.20240202  (JP2:OpenJPEG) (JP-LS:CharLS) MSC1938  (64-bit Windows)
+Found 422 DICOM file(s)
+Warning: Unable to determine manufacturer (0008,0070), so conversion is not tuned for vendor.
+Convert 211 DICOM as C:\Users\ADMH2\Desktop\Noveno Semestre\Procesamiento Digital de Imagenes\ImagenesMedicas\dcm2bids-trabajo\bids_project\tmp_dcm2bids\helper\001_0001_FLAIR_SAG_3D_20230802140119 (205x235x211x1)
+Warning: Unable to determine manufacturer (0008,0070), so conversion is not tuned for vendor.
+Convert 211 DICOM as C:\Users\ADMH2\Desktop\Noveno Semestre\Procesamiento Digital de Imagenes\ImagenesMedicas\dcm2bids-trabajo\bids_project\tmp_dcm2bids\helper\001_0001_SAG_3D_T1_ACCELERATED_20230802140119 (205x235x211x1)
+Conversion required 5.435000 seconds.
+
+2024-04-04 01:15:01.840 - INFO     - dcm2niix_gen.execute | Check log file for dcm2niix output
+
+2024-04-04 01:15:01.841 - INFO     - dcm2bids_helper.main | Helper files in: C:\Users\ADMH2\Desktop\Noveno Semestre\Procesamiento Digital de Imagenes\ImagenesMedicas\dcm2bids-trabajo\bids_project\tmp_dcm2bids\helper
+
+2024-04-04 01:15:01.842 - INFO     - dcm2bids_helper.main | Log file saved at C:\Users\ADMH2\Desktop\Noveno Semestre\Procesamiento Digital de Imagenes\ImagenesMedicas\dcm2bids-trabajo\bids_project\tmp_dcm2bids\log\helper_20240404-011454.log
+2024-04-04 01:15:01.842 - INFO     - dcm2bids_helper.main | --- dcm2bids_helper end ---
