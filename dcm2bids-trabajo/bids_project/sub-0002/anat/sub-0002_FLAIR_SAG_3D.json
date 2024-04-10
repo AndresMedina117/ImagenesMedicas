@@ -1,0 +1,27 @@
+{
+    "Modality": "MR",
+    "ManufacturersModelName": "Unknown model",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "FLAIR_SAG_3D",
+    "ProtocolName": "FLAIR_SAG_3D",
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "MPR"
+    ],
+    "SeriesNumber": 301,
+    "SliceThickness": 1,
+    "SpacingBetweenSlices": 1,
+    "ReconMatrixPE": 256,
+    "ImageOrientationPatientDICOM": [
+        -0.031929,
+        0.99941,
+        0.0126339,
+        0.0119107,
+        0.0130199,
+        -0.999844
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20240202",
+    "Dcm2bidsVersion": "3.1.1"
+}
