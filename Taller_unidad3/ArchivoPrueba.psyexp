@@ -299,6 +299,5 @@
     <Routine name="On"/>
     <LoopTerminator name="RepeticionOn"/>
     <LoopTerminator name="Prueba"/>
-    <Routine name="FInalizacion"/>
   </Flow>
 </PsychoPy2experiment>
