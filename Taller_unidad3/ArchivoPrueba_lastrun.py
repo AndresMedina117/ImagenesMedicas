@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.1.1),
-    on abril 28, 2024, at 12:57
+    on abril 28, 2024, at 13:53
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -580,7 +580,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         
         # --- Run Routine "Off" ---
         routineForceEnded = not continueRoutine
-        while continueRoutine and routineTimer.getTime() < 1.0:
+        while continueRoutine and routineTimer.getTime() < 20.0:
             # get current time
             t = routineTimer.getTime()
             tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -611,7 +611,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # if CondicionOff is stopping this frame...
             if CondicionOff.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > CondicionOff.tStartRefresh + 1-frameTolerance:
+                if tThisFlipGlobal > CondicionOff.tStartRefresh + 20-frameTolerance:
                     # keep track of stop time/frame for later
                     CondicionOff.tStop = t  # not accounting for scr refresh
                     CondicionOff.tStopRefresh = tThisFlipGlobal  # on global time
@@ -652,7 +652,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if routineForceEnded:
             routineTimer.reset()
         else:
-            routineTimer.addTime(-1.000000)
+            routineTimer.addTime(-20.000000)
         
         # set up handler to look after randomisation of conditions etc
         RepeticionOn = data.TrialHandler(nReps=1.0, method='sequential', 
@@ -705,7 +705,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             
             # --- Run Routine "On" ---
             routineForceEnded = not continueRoutine
-            while continueRoutine and routineTimer.getTime() < 0.1:
+            while continueRoutine and routineTimer.getTime() < 1.0:
                 # get current time
                 t = routineTimer.getTime()
                 tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -736,7 +736,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 # if CondicionOn is stopping this frame...
                 if CondicionOn.status == STARTED:
                     # is it time to stop? (based on global clock, using actual start)
-                    if tThisFlipGlobal > CondicionOn.tStartRefresh + 0.1-frameTolerance:
+                    if tThisFlipGlobal > CondicionOn.tStartRefresh + 1-frameTolerance:
                         # keep track of stop time/frame for later
                         CondicionOn.tStop = t  # not accounting for scr refresh
                         CondicionOn.tStopRefresh = tThisFlipGlobal  # on global time
@@ -777,7 +777,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             if routineForceEnded:
                 routineTimer.reset()
             else:
-                routineTimer.addTime(-0.100000)
+                routineTimer.addTime(-1.000000)
             thisExp.nextEntry()
             
             if thisSession is not None:
