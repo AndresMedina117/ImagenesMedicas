@@ -1,0 +1,395 @@
+23.0097 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+23.0112 	INFO 	Loaded monitor calibration from ['2024_04_12 16:30']
+24.9637 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000016CAA0CF820>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000016CAA0CF7C0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000016CAA0CF610>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000016CAA453BE0>, multiSample=False, name='window1', numSamples=2, pos=[448.0, 156.0], screen=0, size=array([1024,  768]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+24.9639 	EXP 	window1: mouseVisible = True
+24.9639 	EXP 	window1: backgroundImage = ''
+24.9639 	EXP 	window1: backgroundFit = 'none'
+24.9641 	EXP 	window1: mouseVisible = True
+24.9644 	EXP 	window1: mouseVisible = True
+25.0035 	EXP 	window1: mouseVisible = True
+25.0044 	EXP 	window1: mouseVisible = True
+25.0247 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0277 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0310 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0375 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0414 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0441 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0473 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0512 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0537 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0568 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0620 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0656 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0692 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0726 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0756 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0790 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0825 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0853 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0880 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0916 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0941 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.0945 	DEBUG 	Uploading Texture Font fontname to graphics card
+25.1135 	DEBUG 	Upload of Texture Font fontname complete
+25.1161 	EXP 	window1: mouseVisible = True
+25.1164 	EXP 	window1: mouseVisible = True
+25.1173 	EXP 	window1: mouseVisible = True
+25.1182 	EXP 	window1: mouseVisible = True
+25.1368 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.1405 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.1441 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.1445 	DEBUG 	Uploading Texture Font fontname to graphics card
+25.1626 	DEBUG 	Upload of Texture Font fontname complete
+25.1663 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+25.1663 	EXP 	window1: recordFrameIntervals = False
+25.3526 	EXP 	window1: recordFrameIntervals = True
+25.5361 	EXP 	Screen (0) actual frame rate measured at 59.97Hz
+25.5361 	EXP 	window1: recordFrameIntervals = False
+25.5362 	EXP 	window1: mouseVisible = False
+25.5370 	EXP 	window1: mouseVisible = True
+25.5373 	EXP 	window1: mouseVisible = True
+25.5383 	EXP 	window1: mouseVisible = True
+25.5393 	EXP 	window1: mouseVisible = True
+25.5580 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5607 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5643 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5703 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5743 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5783 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5813 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5850 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5890 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5929 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+25.5933 	DEBUG 	Uploading Texture Font fontname to graphics card
+25.6118 	DEBUG 	Upload of Texture Font fontname complete
+25.6145 	EXP 	window1: mouseVisible = True
+25.6148 	EXP 	window1: mouseVisible = True
+25.6159 	EXP 	window1: mouseVisible = True
+25.6168 	EXP 	window1: mouseVisible = True
+25.7278 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+30.3347 	INFO 	keyboard.Keyboard is using iohub backend.
+30.3347 	EXP 	ArchivoPrueba: status = STARTED
+30.3351 	EXP 	window1: mouseVisible = True
+30.6918 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='bienvenido', units='height', win=Window(...), wrapWidth=1)
+30.6920 	EXP 	window1: mouseVisible = True
+30.6921 	EXP 	window1: mouseVisible = True
+30.6945 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+30.6947 	EXP 	window1: mouseVisible = True
+30.6965 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0667 	EXP 	text_3: autoDraw = True
+1.4565 	DATA 	Mouse: Left button down, pos=(409,515)
+1.4827 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+1.4833 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 10 conditions, 2 params
+1.4838 	EXP 	Created sequence: sequential, trialTypes=10, nReps=10, seed=None
+1.4841 	EXP 	New trial (rep=0, index=0): {'PreguntaOff': '1) ¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOn': 1}
+1.5322 	EXP 	text_3: autoDraw = False
+1.5322 	EXP 	text: height = 0.05000000000000001
+1.5322 	EXP 	text: height = 0.05000000000000001
+1.5322 	EXP 	text: height = 0.05000000000000001
+1.5322 	EXP 	text: text = '1) ¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?'
+1.5322 	EXP 	text: autoDraw = True
+1.6916 	DATA 	Mouse:  Left button up, pos=(409,515)
+21.4775 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+21.4782 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 10 conditions, 2 params
+21.4792 	EXP 	Created sequence: sequential, trialTypes=10, nReps=20, seed=None
+21.4796 	EXP 	New trial (rep=0, index=0): {'PreguntaOff': '1) ¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOn': 1}
+21.4996 	EXP 	text: autoDraw = False
+21.4996 	EXP 	text_2: height = 0.05000000000000001
+21.4996 	EXP 	text_2: height = 0.05000000000000001
+21.4996 	EXP 	text_2: height = 0.05000000000000001
+21.4996 	EXP 	text_2: text = 1
+21.4996 	EXP 	text_2: autoDraw = True
+22.4718 	EXP 	New trial (rep=0, index=1): {'PreguntaOff': '2) ¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOn': 2}
+22.4970 	EXP 	text_2: autoDraw = False
+22.4970 	EXP 	text_2: height = 0.05000000000000001
+22.4970 	EXP 	text_2: height = 0.05000000000000001
+22.4970 	EXP 	text_2: height = 0.05000000000000001
+22.4970 	EXP 	text_2: text = 2
+22.4970 	EXP 	text_2: autoDraw = True
+23.4707 	EXP 	New trial (rep=0, index=2): {'PreguntaOff': '3) ¿Hay algún inconveniente que recuerde haber experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOn': 3}
+23.4961 	EXP 	text_2: autoDraw = False
+23.4961 	EXP 	text_2: height = 0.05000000000000001
+23.4961 	EXP 	text_2: height = 0.05000000000000001
+23.4961 	EXP 	text_2: height = 0.05000000000000001
+23.4961 	EXP 	text_2: text = 3
+23.4961 	EXP 	text_2: autoDraw = True
+24.4695 	EXP 	New trial (rep=0, index=3): {'PreguntaOff': '4) ¿recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOn': 4}
+24.4953 	EXP 	text_2: autoDraw = False
+24.4953 	EXP 	text_2: height = 0.05000000000000001
+24.4953 	EXP 	text_2: height = 0.05000000000000001
+24.4953 	EXP 	text_2: height = 0.05000000000000001
+24.4953 	EXP 	text_2: text = 4
+24.4953 	EXP 	text_2: autoDraw = True
+25.4686 	EXP 	New trial (rep=0, index=4): {'PreguntaOff': '5) ¿Puede recordar el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOn': 5}
+25.4947 	EXP 	text_2: autoDraw = False
+25.4947 	EXP 	text_2: height = 0.05000000000000001
+25.4947 	EXP 	text_2: height = 0.05000000000000001
+25.4947 	EXP 	text_2: height = 0.05000000000000001
+25.4947 	EXP 	text_2: text = 5
+25.4947 	EXP 	text_2: autoDraw = True
+26.4680 	EXP 	New trial (rep=0, index=5): {'PreguntaOff': '6) ¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOn': 6}
+26.4937 	EXP 	text_2: autoDraw = False
+26.4937 	EXP 	text_2: height = 0.05000000000000001
+26.4937 	EXP 	text_2: height = 0.05000000000000001
+26.4937 	EXP 	text_2: height = 0.05000000000000001
+26.4937 	EXP 	text_2: text = 6
+26.4937 	EXP 	text_2: autoDraw = True
+27.4673 	EXP 	New trial (rep=0, index=6): {'PreguntaOff': '7) ¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOn': 7}
+27.4929 	EXP 	text_2: autoDraw = False
+27.4929 	EXP 	text_2: height = 0.05000000000000001
+27.4929 	EXP 	text_2: height = 0.05000000000000001
+27.4929 	EXP 	text_2: height = 0.05000000000000001
+27.4929 	EXP 	text_2: text = 7
+27.4929 	EXP 	text_2: autoDraw = True
+28.4665 	EXP 	New trial (rep=0, index=7): {'PreguntaOff': '8) ¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOn': 8}
+28.4919 	EXP 	text_2: autoDraw = False
+28.4919 	EXP 	text_2: height = 0.05000000000000001
+28.4919 	EXP 	text_2: height = 0.05000000000000001
+28.4919 	EXP 	text_2: height = 0.05000000000000001
+28.4919 	EXP 	text_2: text = 8
+28.4919 	EXP 	text_2: autoDraw = True
+29.4657 	EXP 	New trial (rep=0, index=8): {'PreguntaOff': '9) ¿Puede recordar qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOn': 9}
+29.4961 	EXP 	text_2: autoDraw = False
+29.4961 	EXP 	text_2: height = 0.05000000000000001
+29.4961 	EXP 	text_2: height = 0.05000000000000001
+29.4961 	EXP 	text_2: height = 0.05000000000000001
+29.4961 	EXP 	text_2: text = 9
+29.4961 	EXP 	text_2: autoDraw = True
+30.4643 	EXP 	New trial (rep=0, index=9): {'PreguntaOff': '10) ¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOn': 10}
+30.4902 	EXP 	text_2: autoDraw = False
+30.4902 	EXP 	text_2: height = 0.05000000000000001
+30.4902 	EXP 	text_2: height = 0.05000000000000001
+30.4902 	EXP 	text_2: height = 0.05000000000000001
+30.4902 	EXP 	text_2: text = 10
+30.4902 	EXP 	text_2: autoDraw = True
+31.4635 	EXP 	New trial (rep=1, index=0): {'PreguntaOff': '1) ¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOn': 1}
+31.4764 	EXP 	text_2: autoDraw = False
+31.4764 	EXP 	text_2: height = 0.05000000000000001
+31.4764 	EXP 	text_2: height = 0.05000000000000001
+31.4764 	EXP 	text_2: height = 0.05000000000000001
+31.4764 	EXP 	text_2: text = 1
+31.4764 	EXP 	text_2: autoDraw = True
+32.4626 	EXP 	New trial (rep=1, index=1): {'PreguntaOff': '2) ¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOn': 2}
+32.4756 	EXP 	text_2: autoDraw = False
+32.4756 	EXP 	text_2: height = 0.05000000000000001
+32.4756 	EXP 	text_2: height = 0.05000000000000001
+32.4756 	EXP 	text_2: height = 0.05000000000000001
+32.4756 	EXP 	text_2: text = 2
+32.4756 	EXP 	text_2: autoDraw = True
+33.4632 	EXP 	New trial (rep=1, index=2): {'PreguntaOff': '3) ¿Hay algún inconveniente que recuerde haber experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOn': 3}
+33.4888 	EXP 	text_2: autoDraw = False
+33.4888 	EXP 	text_2: height = 0.05000000000000001
+33.4888 	EXP 	text_2: height = 0.05000000000000001
+33.4888 	EXP 	text_2: height = 0.05000000000000001
+33.4888 	EXP 	text_2: text = 3
+33.4888 	EXP 	text_2: autoDraw = True
+34.4611 	EXP 	New trial (rep=1, index=3): {'PreguntaOff': '4) ¿recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOn': 4}
+34.4740 	EXP 	text_2: autoDraw = False
+34.4740 	EXP 	text_2: height = 0.05000000000000001
+34.4740 	EXP 	text_2: height = 0.05000000000000001
+34.4740 	EXP 	text_2: height = 0.05000000000000001
+34.4740 	EXP 	text_2: text = 4
+34.4740 	EXP 	text_2: autoDraw = True
+35.4604 	EXP 	New trial (rep=1, index=4): {'PreguntaOff': '5) ¿Puede recordar el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOn': 5}
+35.4731 	EXP 	text_2: autoDraw = False
+35.4731 	EXP 	text_2: height = 0.05000000000000001
+35.4731 	EXP 	text_2: height = 0.05000000000000001
+35.4731 	EXP 	text_2: height = 0.05000000000000001
+35.4731 	EXP 	text_2: text = 5
+35.4731 	EXP 	text_2: autoDraw = True
+36.4593 	EXP 	New trial (rep=1, index=5): {'PreguntaOff': '6) ¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOn': 6}
+36.4717 	EXP 	text_2: autoDraw = False
+36.4717 	EXP 	text_2: height = 0.05000000000000001
+36.4717 	EXP 	text_2: height = 0.05000000000000001
+36.4717 	EXP 	text_2: height = 0.05000000000000001
+36.4717 	EXP 	text_2: text = 6
+36.4717 	EXP 	text_2: autoDraw = True
+37.4587 	EXP 	New trial (rep=1, index=6): {'PreguntaOff': '7) ¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOn': 7}
+37.4713 	EXP 	text_2: autoDraw = False
+37.4713 	EXP 	text_2: height = 0.05000000000000001
+37.4713 	EXP 	text_2: height = 0.05000000000000001
+37.4713 	EXP 	text_2: height = 0.05000000000000001
+37.4713 	EXP 	text_2: text = 7
+37.4713 	EXP 	text_2: autoDraw = True
+38.4582 	EXP 	New trial (rep=1, index=7): {'PreguntaOff': '8) ¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOn': 8}
+38.4705 	EXP 	text_2: autoDraw = False
+38.4705 	EXP 	text_2: autoDraw = False
+38.4705 	EXP 	text_2: height = 0.05000000000000001
+38.4705 	EXP 	text_2: height = 0.05000000000000001
+38.4705 	EXP 	text_2: height = 0.05000000000000001
+38.4705 	EXP 	text_2: text = 8
+38.4705 	EXP 	text_2: autoDraw = True
+39.4730 	EXP 	New trial (rep=1, index=8): {'PreguntaOff': '9) ¿Puede recordar qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOn': 9}
+39.4861 	EXP 	text_2: autoDraw = False
+39.4861 	EXP 	text_2: height = 0.05000000000000001
+39.4861 	EXP 	text_2: height = 0.05000000000000001
+39.4861 	EXP 	text_2: height = 0.05000000000000001
+39.4861 	EXP 	text_2: text = 9
+39.4861 	EXP 	text_2: autoDraw = True
+40.4730 	EXP 	New trial (rep=1, index=9): {'PreguntaOff': '10) ¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOn': 10}
+40.4852 	EXP 	text_2: autoDraw = False
+40.4852 	EXP 	text_2: height = 0.05000000000000001
+40.4852 	EXP 	text_2: height = 0.05000000000000001
+40.4852 	EXP 	text_2: height = 0.05000000000000001
+40.4852 	EXP 	text_2: text = 10
+40.4852 	EXP 	text_2: autoDraw = True
+41.4716 	EXP 	New trial (rep=2, index=0): {'PreguntaOff': '1) ¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOn': 1}
+41.4845 	EXP 	text_2: autoDraw = False
+41.4845 	EXP 	text_2: height = 0.05000000000000001
+41.4845 	EXP 	text_2: height = 0.05000000000000001
+41.4845 	EXP 	text_2: height = 0.05000000000000001
+41.4845 	EXP 	text_2: text = 1
+41.4845 	EXP 	text_2: autoDraw = True
+42.4706 	EXP 	New trial (rep=2, index=1): {'PreguntaOff': '2) ¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOn': 2}
+42.4834 	EXP 	text_2: autoDraw = False
+42.4834 	EXP 	text_2: height = 0.05000000000000001
+42.4834 	EXP 	text_2: height = 0.05000000000000001
+42.4834 	EXP 	text_2: height = 0.05000000000000001
+42.4834 	EXP 	text_2: text = 2
+42.4834 	EXP 	text_2: autoDraw = True
+43.4697 	EXP 	New trial (rep=2, index=2): {'PreguntaOff': '3) ¿Hay algún inconveniente que recuerde haber experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOn': 3}
+43.4825 	EXP 	text_2: autoDraw = False
+43.4825 	EXP 	text_2: height = 0.05000000000000001
+43.4825 	EXP 	text_2: height = 0.05000000000000001
+43.4825 	EXP 	text_2: height = 0.05000000000000001
+43.4825 	EXP 	text_2: text = 3
+43.4825 	EXP 	text_2: autoDraw = True
+44.4687 	EXP 	New trial (rep=2, index=3): {'PreguntaOff': '4) ¿recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOn': 4}
+44.4816 	EXP 	text_2: autoDraw = False
+44.4816 	EXP 	text_2: height = 0.05000000000000001
+44.4816 	EXP 	text_2: height = 0.05000000000000001
+44.4816 	EXP 	text_2: height = 0.05000000000000001
+44.4816 	EXP 	text_2: text = 4
+44.4816 	EXP 	text_2: autoDraw = True
+45.4682 	EXP 	New trial (rep=2, index=4): {'PreguntaOff': '5) ¿Puede recordar el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOn': 5}
+45.4955 	EXP 	text_2: autoDraw = False
+45.4955 	EXP 	text_2: height = 0.05000000000000001
+45.4955 	EXP 	text_2: height = 0.05000000000000001
+45.4955 	EXP 	text_2: height = 0.05000000000000001
+45.4955 	EXP 	text_2: text = 5
+45.4955 	EXP 	text_2: autoDraw = True
+51.5780 	EXP 	New trial (rep=2, index=5): {'PreguntaOff': '6) ¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOn': 6}
+51.5800 	EXP 	New trial (rep=2, index=6): {'PreguntaOff': '7) ¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOn': 7}
+51.5822 	EXP 	New trial (rep=2, index=7): {'PreguntaOff': '8) ¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOn': 8}
+51.5844 	EXP 	New trial (rep=2, index=8): {'PreguntaOff': '9) ¿Puede recordar qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOn': 9}
+51.5870 	EXP 	New trial (rep=2, index=9): {'PreguntaOff': '10) ¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOn': 10}
+51.5894 	EXP 	New trial (rep=3, index=0): {'PreguntaOff': '1) ¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOn': 1}
+51.6064 	EXP 	text_2: autoDraw = False
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: text = 6
+51.6064 	EXP 	text_2: autoDraw = False
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: text = 7
+51.6064 	EXP 	text_2: autoDraw = False
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: text = 8
+51.6064 	EXP 	text_2: autoDraw = False
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: text = 9
+51.6064 	EXP 	text_2: autoDraw = False
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: text = 10
+51.6064 	EXP 	text_2: autoDraw = False
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: height = 0.05000000000000001
+51.6064 	EXP 	text_2: text = 1
+51.6064 	EXP 	text_2: autoDraw = True
+52.4615 	EXP 	New trial (rep=3, index=1): {'PreguntaOff': '2) ¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOn': 2}
+52.4744 	EXP 	text_2: autoDraw = False
+52.4744 	EXP 	text_2: height = 0.05000000000000001
+52.4744 	EXP 	text_2: height = 0.05000000000000001
+52.4744 	EXP 	text_2: height = 0.05000000000000001
+52.4744 	EXP 	text_2: text = 2
+52.4744 	EXP 	text_2: autoDraw = True
+53.4610 	EXP 	New trial (rep=3, index=2): {'PreguntaOff': '3) ¿Hay algún inconveniente que recuerde haber experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOn': 3}
+53.4733 	EXP 	text_2: autoDraw = False
+53.4733 	EXP 	text_2: height = 0.05000000000000001
+53.4733 	EXP 	text_2: height = 0.05000000000000001
+53.4733 	EXP 	text_2: height = 0.05000000000000001
+53.4733 	EXP 	text_2: text = 3
+53.4733 	EXP 	text_2: autoDraw = True
+54.4601 	EXP 	New trial (rep=3, index=3): {'PreguntaOff': '4) ¿recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOn': 4}
+54.4722 	EXP 	text_2: autoDraw = False
+54.4722 	EXP 	text_2: height = 0.05000000000000001
+54.4722 	EXP 	text_2: height = 0.05000000000000001
+54.4722 	EXP 	text_2: height = 0.05000000000000001
+54.4722 	EXP 	text_2: text = 4
+54.4722 	EXP 	text_2: autoDraw = True
+55.4589 	EXP 	New trial (rep=3, index=4): {'PreguntaOff': '5) ¿Puede recordar el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOn': 5}
+55.4715 	EXP 	text_2: autoDraw = False
+55.4715 	EXP 	text_2: height = 0.05000000000000001
+55.4715 	EXP 	text_2: height = 0.05000000000000001
+55.4715 	EXP 	text_2: height = 0.05000000000000001
+55.4715 	EXP 	text_2: text = 5
+55.4715 	EXP 	text_2: autoDraw = True
+56.4581 	EXP 	New trial (rep=3, index=5): {'PreguntaOff': '6) ¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOn': 6}
+56.4708 	EXP 	text_2: autoDraw = False
+56.4708 	EXP 	text_2: height = 0.05000000000000001
+56.4708 	EXP 	text_2: height = 0.05000000000000001
+56.4708 	EXP 	text_2: height = 0.05000000000000001
+56.4708 	EXP 	text_2: text = 6
+56.4708 	EXP 	text_2: autoDraw = True
+57.4580 	EXP 	New trial (rep=3, index=6): {'PreguntaOff': '7) ¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOn': 7}
+57.4699 	EXP 	text_2: autoDraw = False
+57.4699 	EXP 	text_2: autoDraw = False
+57.4699 	EXP 	text_2: height = 0.05000000000000001
+57.4699 	EXP 	text_2: height = 0.05000000000000001
+57.4699 	EXP 	text_2: height = 0.05000000000000001
+57.4699 	EXP 	text_2: text = 7
+57.4699 	EXP 	text_2: autoDraw = True
+58.4571 	EXP 	New trial (rep=3, index=7): {'PreguntaOff': '8) ¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOn': 8}
+58.4691 	EXP 	text_2: autoDraw = False
+58.4691 	EXP 	text_2: autoDraw = False
+58.4691 	EXP 	text_2: height = 0.05000000000000001
+58.4691 	EXP 	text_2: height = 0.05000000000000001
+58.4691 	EXP 	text_2: height = 0.05000000000000001
+58.4691 	EXP 	text_2: text = 8
+58.4691 	EXP 	text_2: autoDraw = True
+59.4566 	EXP 	New trial (rep=3, index=8): {'PreguntaOff': '9) ¿Puede recordar qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOn': 9}
+59.4683 	EXP 	text_2: autoDraw = False
+59.4683 	EXP 	text_2: autoDraw = False
+59.4683 	EXP 	text_2: height = 0.05000000000000001
+59.4683 	EXP 	text_2: height = 0.05000000000000001
+59.4683 	EXP 	text_2: height = 0.05000000000000001
+59.4683 	EXP 	text_2: text = 9
+59.4683 	EXP 	text_2: autoDraw = True
+60.4791 	EXP 	New trial (rep=3, index=9): {'PreguntaOff': '10) ¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOn': 10}
+60.4987 	EXP 	text_2: autoDraw = False
+60.4987 	EXP 	text_2: height = 0.05000000000000001
+60.4987 	EXP 	text_2: height = 0.05000000000000001
+60.4987 	EXP 	text_2: height = 0.05000000000000001
+60.4987 	EXP 	text_2: text = 10
+60.4987 	EXP 	text_2: autoDraw = True
+61.4705 	EXP 	New trial (rep=4, index=0): {'PreguntaOff': '1) ¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOn': 1}
+61.4833 	EXP 	text_2: autoDraw = False
+61.4833 	EXP 	text_2: height = 0.05000000000000001
+61.4833 	EXP 	text_2: height = 0.05000000000000001
+61.4833 	EXP 	text_2: height = 0.05000000000000001
+61.4833 	EXP 	text_2: text = 1
+61.4833 	EXP 	text_2: autoDraw = True
+62.4698 	EXP 	New trial (rep=4, index=1): {'PreguntaOff': '2) ¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOn': 2}
+62.4823 	EXP 	text_2: autoDraw = False
+62.4823 	EXP 	text_2: height = 0.05000000000000001
+62.4823 	EXP 	text_2: height = 0.05000000000000001
+62.4823 	EXP 	text_2: height = 0.05000000000000001
+62.4823 	EXP 	text_2: text = 2
+62.4823 	EXP 	text_2: autoDraw = True
+62.8088 	DATA 	Keypress: escape
+62.9861 	EXP 	ArchivoPrueba: status = STOPPED
+62.9984 	EXP 	text_2: autoDraw = False
+63.0017 	EXP 	ArchivoPrueba: status = STOPPED
+63.0198 	INFO 	saved data to 'C:\\Users\\andre\\Desktop\\Imagenes\\Taller_unidad3\\data/439057_ArchivoPrueba_2024-04-28_10h15.26.187.csv'
+63.0221 	INFO 	saved data to C:\Users\andre\Desktop\Imagenes\Taller_unidad3\data/439057_ArchivoPrueba_2024-04-28_10h15.26.187.psydat
+63.0932 	EXP 	window1: mouseVisible = True
+63.7284 	DEBUG 	Saving data for ArchivoPrueba ExperimentHandler

@@ -1,0 +1,269 @@
+13.8233 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+13.8252 	INFO 	Loaded monitor calibration from ['2024_04_12 16:30']
+15.1281 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A3DF28E790>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A3DF28E730>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A3DF28E580>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001A3DF604B50>, multiSample=False, name='window1', numSamples=2, pos=[448.0, 156.0], screen=0, size=array([1024,  768]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+15.1283 	EXP 	window1: mouseVisible = True
+15.1283 	EXP 	window1: backgroundImage = ''
+15.1284 	EXP 	window1: backgroundFit = 'none'
+15.1286 	EXP 	window1: mouseVisible = True
+15.1289 	EXP 	window1: mouseVisible = True
+15.1313 	EXP 	window1: mouseVisible = True
+15.1322 	EXP 	window1: mouseVisible = True
+15.1523 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1554 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1586 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1625 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1661 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1686 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1719 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1756 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1780 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1804 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1836 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1868 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1899 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1930 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1962 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.1995 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2029 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2054 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2080 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2120 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2145 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2149 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.2323 	DEBUG 	Upload of Texture Font fontname complete
+15.2357 	EXP 	window1: mouseVisible = True
+15.2360 	EXP 	window1: mouseVisible = True
+15.2370 	EXP 	window1: mouseVisible = True
+15.2379 	EXP 	window1: mouseVisible = True
+15.2578 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2621 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2659 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.2663 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.2824 	DEBUG 	Upload of Texture Font fontname complete
+15.2854 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+15.2854 	EXP 	window1: recordFrameIntervals = False
+15.4657 	EXP 	window1: recordFrameIntervals = True
+15.6490 	EXP 	Screen (0) actual frame rate measured at 60.06Hz
+15.6491 	EXP 	window1: recordFrameIntervals = False
+15.6492 	EXP 	window1: mouseVisible = False
+15.6499 	EXP 	window1: mouseVisible = True
+15.6501 	EXP 	window1: mouseVisible = True
+15.6511 	EXP 	window1: mouseVisible = True
+15.6521 	EXP 	window1: mouseVisible = True
+15.6705 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6731 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6764 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6806 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6849 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6888 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6914 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6951 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.6991 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.7028 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+15.7032 	DEBUG 	Uploading Texture Font fontname to graphics card
+15.7213 	DEBUG 	Upload of Texture Font fontname complete
+15.7239 	EXP 	window1: mouseVisible = True
+15.7241 	EXP 	window1: mouseVisible = True
+15.7253 	EXP 	window1: mouseVisible = True
+15.7262 	EXP 	window1: mouseVisible = True
+15.7896 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+19.4251 	INFO 	keyboard.Keyboard is using iohub backend.
+19.4251 	EXP 	ArchivoPrueba: status = STARTED
+19.4254 	EXP 	window1: mouseVisible = True
+19.5532 	EXP 	Created introducción = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='introducción', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.5533 	EXP 	window1: mouseVisible = True
+19.5534 	EXP 	window1: mouseVisible = True
+19.5554 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.5555 	EXP 	window1: mouseVisible = True
+19.5585 	EXP 	Created CondicionOn = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOn', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0383 	EXP 	introducción: autoDraw = True
+6.3201 	DATA 	Mouse: Left button down, pos=(404,521)
+6.3299 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+6.3318 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 20 conditions, 4 params
+6.3327 	EXP 	Created sequence: sequential, trialTypes=20, nReps=10, seed=None
+6.3333 	EXP 	New trial (rep=0, index=0): {'PreguntaOff': '¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOn': 1, 'Colors': 'green', 'Conteo': 'Comenzamos en : 1'}
+6.3629 	EXP 	introducción: autoDraw = False
+6.3629 	EXP 	CondicionOff: height = 0.05000000000000001
+6.3629 	EXP 	CondicionOff: height = 0.05000000000000001
+6.3629 	EXP 	CondicionOff: height = 0.05000000000000001
+6.3629 	EXP 	CondicionOff: text = '¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?'
+6.3629 	EXP 	CondicionOff: autoDraw = True
+6.5391 	DATA 	Mouse:  Left button up, pos=(404,521)
+26.3428 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+26.3456 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 20 conditions, 4 params
+26.3463 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+26.3465 	EXP 	New trial (rep=0, index=0): {'PreguntaOff': '¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOn': 1, 'Colors': 'green', 'Conteo': 'Comenzamos en : 1'}
+26.3789 	EXP 	CondicionOff: autoDraw = False
+26.3789 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+26.3789 	EXP 	CondicionOn: height = 0.10000000000000002
+26.3789 	EXP 	CondicionOn: height = 0.10000000000000002
+26.3789 	EXP 	CondicionOn: height = 0.10000000000000002
+26.3789 	EXP 	CondicionOn: text = 1
+26.3789 	EXP 	CondicionOn: autoDraw = True
+27.3351 	EXP 	New trial (rep=0, index=1): {'PreguntaOff': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOn': 3, 'Colors': 'red', 'Conteo': 'Comenzamos en : 2'}
+27.3613 	EXP 	CondicionOn: autoDraw = False
+27.3613 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+27.3613 	EXP 	CondicionOn: height = 0.10000000000000002
+27.3613 	EXP 	CondicionOn: height = 0.10000000000000002
+27.3613 	EXP 	CondicionOn: height = 0.10000000000000002
+27.3613 	EXP 	CondicionOn: text = 3
+27.3613 	EXP 	CondicionOn: autoDraw = True
+28.3343 	EXP 	New trial (rep=0, index=2): {'PreguntaOff': '¿Hay algún inconveniente que recuerde haber experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOn': 5, 'Colors': 'white', 'Conteo': 'Comenzamos en : 3'}
+28.3601 	EXP 	CondicionOn: autoDraw = False
+28.3601 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+28.3601 	EXP 	CondicionOn: height = 0.10000000000000002
+28.3601 	EXP 	CondicionOn: height = 0.10000000000000002
+28.3601 	EXP 	CondicionOn: height = 0.10000000000000002
+28.3601 	EXP 	CondicionOn: text = 5
+28.3601 	EXP 	CondicionOn: autoDraw = True
+29.3334 	EXP 	New trial (rep=0, index=3): {'PreguntaOff': '¿recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOn': 7, 'Colors': 'blue', 'Conteo': None}
+29.3595 	EXP 	CondicionOn: autoDraw = False
+29.3595 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+29.3595 	EXP 	CondicionOn: height = 0.10000000000000002
+29.3595 	EXP 	CondicionOn: height = 0.10000000000000002
+29.3595 	EXP 	CondicionOn: height = 0.10000000000000002
+29.3595 	EXP 	CondicionOn: text = 7
+29.3595 	EXP 	CondicionOn: autoDraw = True
+30.3326 	EXP 	New trial (rep=0, index=4): {'PreguntaOff': ' ¿Puede recordar el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOn': 9, 'Colors': 'yellow', 'Conteo': None}
+30.3588 	EXP 	CondicionOn: autoDraw = False
+30.3588 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+30.3588 	EXP 	CondicionOn: height = 0.10000000000000002
+30.3588 	EXP 	CondicionOn: height = 0.10000000000000002
+30.3588 	EXP 	CondicionOn: height = 0.10000000000000002
+30.3588 	EXP 	CondicionOn: text = 9
+30.3588 	EXP 	CondicionOn: autoDraw = True
+31.3316 	EXP 	New trial (rep=0, index=5): {'PreguntaOff': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOn': 11, 'Colors': 'orange', 'Conteo': None}
+31.3447 	EXP 	CondicionOn: autoDraw = False
+31.3447 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+31.3447 	EXP 	CondicionOn: height = 0.10000000000000002
+31.3447 	EXP 	CondicionOn: height = 0.10000000000000002
+31.3447 	EXP 	CondicionOn: height = 0.10000000000000002
+31.3447 	EXP 	CondicionOn: text = 11
+31.3447 	EXP 	CondicionOn: autoDraw = True
+32.3308 	EXP 	New trial (rep=0, index=6): {'PreguntaOff': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOn': 13, 'Colors': 'brown', 'Conteo': None}
+32.3438 	EXP 	CondicionOn: autoDraw = False
+32.3438 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+32.3438 	EXP 	CondicionOn: height = 0.10000000000000002
+32.3438 	EXP 	CondicionOn: height = 0.10000000000000002
+32.3438 	EXP 	CondicionOn: height = 0.10000000000000002
+32.3438 	EXP 	CondicionOn: text = 13
+32.3438 	EXP 	CondicionOn: autoDraw = True
+33.3301 	EXP 	New trial (rep=0, index=7): {'PreguntaOff': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOn': 15, 'Colors': 'purple', 'Conteo': None}
+33.3429 	EXP 	CondicionOn: autoDraw = False
+33.3429 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+33.3429 	EXP 	CondicionOn: height = 0.10000000000000002
+33.3429 	EXP 	CondicionOn: height = 0.10000000000000002
+33.3429 	EXP 	CondicionOn: height = 0.10000000000000002
+33.3429 	EXP 	CondicionOn: text = 15
+33.3429 	EXP 	CondicionOn: autoDraw = True
+34.3293 	EXP 	New trial (rep=0, index=8): {'PreguntaOff': ' ¿Puede recordar qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOn': 17, 'Colors': 'green', 'Conteo': None}
+34.3419 	EXP 	CondicionOn: autoDraw = False
+34.3419 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+34.3419 	EXP 	CondicionOn: height = 0.10000000000000002
+34.3419 	EXP 	CondicionOn: height = 0.10000000000000002
+34.3419 	EXP 	CondicionOn: height = 0.10000000000000002
+34.3419 	EXP 	CondicionOn: text = 17
+34.3419 	EXP 	CondicionOn: autoDraw = True
+35.3282 	EXP 	New trial (rep=0, index=9): {'PreguntaOff': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOn': 19, 'Colors': 'red', 'Conteo': None}
+35.3409 	EXP 	CondicionOn: autoDraw = False
+35.3409 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+35.3409 	EXP 	CondicionOn: height = 0.10000000000000002
+35.3409 	EXP 	CondicionOn: height = 0.10000000000000002
+35.3409 	EXP 	CondicionOn: height = 0.10000000000000002
+35.3409 	EXP 	CondicionOn: text = 19
+35.3409 	EXP 	CondicionOn: autoDraw = True
+36.3272 	EXP 	New trial (rep=0, index=10): {'PreguntaOff': None, 'PreguntaOn': 21, 'Colors': 'white', 'Conteo': None}
+36.3534 	EXP 	CondicionOn: autoDraw = False
+36.3534 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+36.3534 	EXP 	CondicionOn: height = 0.10000000000000002
+36.3534 	EXP 	CondicionOn: height = 0.10000000000000002
+36.3534 	EXP 	CondicionOn: height = 0.10000000000000002
+36.3534 	EXP 	CondicionOn: text = 21
+36.3534 	EXP 	CondicionOn: autoDraw = True
+37.3264 	EXP 	New trial (rep=0, index=11): {'PreguntaOff': None, 'PreguntaOn': 23, 'Colors': 'blue', 'Conteo': None}
+37.3391 	EXP 	CondicionOn: autoDraw = False
+37.3391 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+37.3391 	EXP 	CondicionOn: height = 0.10000000000000002
+37.3391 	EXP 	CondicionOn: height = 0.10000000000000002
+37.3391 	EXP 	CondicionOn: height = 0.10000000000000002
+37.3391 	EXP 	CondicionOn: text = 23
+37.3391 	EXP 	CondicionOn: autoDraw = True
+38.3266 	EXP 	New trial (rep=0, index=12): {'PreguntaOff': None, 'PreguntaOn': 25, 'Colors': 'yellow', 'Conteo': None}
+38.3532 	EXP 	CondicionOn: autoDraw = False
+38.3532 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+38.3532 	EXP 	CondicionOn: height = 0.10000000000000002
+38.3532 	EXP 	CondicionOn: height = 0.10000000000000002
+38.3532 	EXP 	CondicionOn: height = 0.10000000000000002
+38.3532 	EXP 	CondicionOn: text = 25
+38.3532 	EXP 	CondicionOn: autoDraw = True
+39.3256 	EXP 	New trial (rep=0, index=13): {'PreguntaOff': None, 'PreguntaOn': 27, 'Colors': 'orange', 'Conteo': None}
+39.3528 	EXP 	CondicionOn: autoDraw = False
+39.3528 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+39.3528 	EXP 	CondicionOn: height = 0.10000000000000002
+39.3528 	EXP 	CondicionOn: height = 0.10000000000000002
+39.3528 	EXP 	CondicionOn: height = 0.10000000000000002
+39.3528 	EXP 	CondicionOn: text = 27
+39.3528 	EXP 	CondicionOn: autoDraw = True
+40.3240 	EXP 	New trial (rep=0, index=14): {'PreguntaOff': None, 'PreguntaOn': 29, 'Colors': 'brown', 'Conteo': None}
+40.3369 	EXP 	CondicionOn: autoDraw = False
+40.3369 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+40.3369 	EXP 	CondicionOn: height = 0.10000000000000002
+40.3369 	EXP 	CondicionOn: height = 0.10000000000000002
+40.3369 	EXP 	CondicionOn: height = 0.10000000000000002
+40.3369 	EXP 	CondicionOn: text = 29
+40.3369 	EXP 	CondicionOn: autoDraw = True
+41.3228 	EXP 	New trial (rep=0, index=15): {'PreguntaOff': None, 'PreguntaOn': 31, 'Colors': 'purple', 'Conteo': None}
+41.3359 	EXP 	CondicionOn: autoDraw = False
+41.3359 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+41.3359 	EXP 	CondicionOn: height = 0.10000000000000002
+41.3359 	EXP 	CondicionOn: height = 0.10000000000000002
+41.3359 	EXP 	CondicionOn: height = 0.10000000000000002
+41.3359 	EXP 	CondicionOn: text = 31
+41.3359 	EXP 	CondicionOn: autoDraw = True
+42.3222 	EXP 	New trial (rep=0, index=16): {'PreguntaOff': None, 'PreguntaOn': 33, 'Colors': 'green', 'Conteo': None}
+42.3497 	EXP 	CondicionOn: autoDraw = False
+42.3497 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+42.3497 	EXP 	CondicionOn: height = 0.10000000000000002
+42.3497 	EXP 	CondicionOn: height = 0.10000000000000002
+42.3497 	EXP 	CondicionOn: height = 0.10000000000000002
+42.3497 	EXP 	CondicionOn: text = 33
+42.3497 	EXP 	CondicionOn: autoDraw = True
+43.3383 	EXP 	New trial (rep=0, index=17): {'PreguntaOff': None, 'PreguntaOn': 35, 'Colors': 'red', 'Conteo': None}
+43.3506 	EXP 	CondicionOn: autoDraw = False
+43.3506 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+43.3506 	EXP 	CondicionOn: height = 0.10000000000000002
+43.3506 	EXP 	CondicionOn: height = 0.10000000000000002
+43.3506 	EXP 	CondicionOn: height = 0.10000000000000002
+43.3506 	EXP 	CondicionOn: text = 35
+43.3506 	EXP 	CondicionOn: autoDraw = True
+44.3372 	EXP 	New trial (rep=0, index=18): {'PreguntaOff': None, 'PreguntaOn': 37, 'Colors': 'white', 'Conteo': None}
+44.3500 	EXP 	CondicionOn: autoDraw = False
+44.3500 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+44.3500 	EXP 	CondicionOn: height = 0.10000000000000002
+44.3500 	EXP 	CondicionOn: height = 0.10000000000000002
+44.3500 	EXP 	CondicionOn: height = 0.10000000000000002
+44.3500 	EXP 	CondicionOn: text = 37
+44.3500 	EXP 	CondicionOn: autoDraw = True
+45.3360 	EXP 	New trial (rep=0, index=19): {'PreguntaOff': None, 'PreguntaOn': 39, 'Colors': 'blue', 'Conteo': None}
+45.3491 	EXP 	CondicionOn: autoDraw = False
+45.3491 	EXP 	CondicionOn: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+45.3491 	EXP 	CondicionOn: height = 0.10000000000000002
+45.3491 	EXP 	CondicionOn: height = 0.10000000000000002
+45.3491 	EXP 	CondicionOn: height = 0.10000000000000002
+45.3491 	EXP 	CondicionOn: text = 39
+45.3491 	EXP 	CondicionOn: autoDraw = True
+46.3377 	EXP 	New trial (rep=0, index=1): {'PreguntaOff': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOn': 3, 'Colors': 'red', 'Conteo': 'Comenzamos en : 2'}
+46.3776 	EXP 	CondicionOn: autoDraw = False
+46.3776 	EXP 	CondicionOff: height = 0.05000000000000001
+46.3776 	EXP 	CondicionOff: height = 0.05000000000000001
+46.3776 	EXP 	CondicionOff: height = 0.05000000000000001
+46.3776 	EXP 	CondicionOff: text = '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?'
+46.3776 	EXP 	CondicionOff: autoDraw = True
+59.3813 	DATA 	Keypress: escape
+59.6242 	EXP 	ArchivoPrueba: status = STOPPED
+59.6371 	EXP 	CondicionOff: autoDraw = False
+59.6413 	EXP 	ArchivoPrueba: status = STOPPED
+59.6538 	INFO 	saved data to 'C:\\Users\\andre\\Desktop\\Imagenes\\Taller_unidad3\\data/615678_ArchivoPrueba_2024-04-28_11h24.58.197.csv'
+59.6555 	INFO 	saved data to C:\Users\andre\Desktop\Imagenes\Taller_unidad3\data/615678_ArchivoPrueba_2024-04-28_11h24.58.197.psydat
+59.7291 	EXP 	window1: mouseVisible = True
+60.0429 	DEBUG 	Saving data for ArchivoPrueba ExperimentHandler

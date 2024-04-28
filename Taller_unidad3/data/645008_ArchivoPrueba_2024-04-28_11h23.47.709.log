@@ -1,0 +1,177 @@
+9.4411 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+9.4431 	INFO 	Loaded monitor calibration from ['2024_04_12 16:30']
+10.7347 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E975E5D640>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E975E5D5E0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E975E5D430>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E9761A5A00>, multiSample=False, name='window1', numSamples=2, pos=[448.0, 156.0], screen=0, size=array([1024,  768]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.7349 	EXP 	window1: mouseVisible = True
+10.7349 	EXP 	window1: backgroundImage = ''
+10.7349 	EXP 	window1: backgroundFit = 'none'
+10.7352 	EXP 	window1: mouseVisible = True
+10.7354 	EXP 	window1: mouseVisible = True
+10.7381 	EXP 	window1: mouseVisible = True
+10.7390 	EXP 	window1: mouseVisible = True
+10.7598 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7629 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7662 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7703 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7741 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7767 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7800 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7838 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7864 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7888 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7922 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7955 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7985 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8020 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8051 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8085 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8117 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8143 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8169 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8211 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8236 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8240 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.8373 	DEBUG 	Upload of Texture Font fontname complete
+10.8395 	EXP 	window1: mouseVisible = True
+10.8397 	EXP 	window1: mouseVisible = True
+10.8407 	EXP 	window1: mouseVisible = True
+10.8417 	EXP 	window1: mouseVisible = True
+10.8627 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8665 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8706 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8712 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.8886 	DEBUG 	Upload of Texture Font fontname complete
+10.8915 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.8916 	EXP 	window1: recordFrameIntervals = False
+11.0886 	EXP 	window1: recordFrameIntervals = True
+11.2724 	EXP 	Screen (0) actual frame rate measured at 59.95Hz
+11.2724 	EXP 	window1: recordFrameIntervals = False
+11.2725 	EXP 	window1: mouseVisible = False
+11.2733 	EXP 	window1: mouseVisible = True
+11.2735 	EXP 	window1: mouseVisible = True
+11.2746 	EXP 	window1: mouseVisible = True
+11.2755 	EXP 	window1: mouseVisible = True
+11.2941 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.2967 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3004 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3048 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3089 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3129 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3155 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3193 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3233 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3270 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3274 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.3442 	DEBUG 	Upload of Texture Font fontname complete
+11.3467 	EXP 	window1: mouseVisible = True
+11.3469 	EXP 	window1: mouseVisible = True
+11.3480 	EXP 	window1: mouseVisible = True
+11.3490 	EXP 	window1: mouseVisible = True
+11.4172 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+15.1546 	INFO 	keyboard.Keyboard is using iohub backend.
+15.1547 	EXP 	ArchivoPrueba: status = STARTED
+15.1550 	EXP 	window1: mouseVisible = True
+15.2759 	EXP 	Created introducción = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05000000000000001, italic=False, languageStyle='LTR', name='introducción', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+15.2760 	EXP 	window1: mouseVisible = True
+15.2762 	EXP 	window1: mouseVisible = True
+15.2779 	EXP 	Created InicioConteo = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='InicioConteo', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2781 	EXP 	window1: mouseVisible = True
+15.2798 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.2800 	EXP 	window1: mouseVisible = True
+15.2833 	EXP 	Created CondicionOn = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOn', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0366 	EXP 	introducción: autoDraw = True
+0.8065 	DATA 	Mouse: Left button down, pos=(490,497)
+0.8161 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+0.8179 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 20 conditions, 4 params
+0.8187 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+0.8189 	EXP 	New trial (rep=0, index=0): {'PreguntaOff': '¿Puede recordar el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOn': 1, 'Colors': 'green', 'Conteo': 'Comenzamos en : 1'}
+0.8493 	EXP 	introducción: autoDraw = False
+0.8493 	EXP 	InicioConteo: height = 0.05000000000000001
+0.8493 	EXP 	InicioConteo: height = 0.05000000000000001
+0.8493 	EXP 	InicioConteo: height = 0.05000000000000001
+0.8493 	EXP 	InicioConteo: text = 'Comenzamos en : 1'
+0.8493 	EXP 	InicioConteo: autoDraw = True
+1.0255 	DATA 	Mouse:  Left button up, pos=(490,497)
+1.8222 	EXP 	New trial (rep=0, index=1): {'PreguntaOff': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOn': 3, 'Colors': 'red', 'Conteo': 'Comenzamos en : 2'}
+1.8484 	EXP 	InicioConteo: autoDraw = False
+1.8484 	EXP 	InicioConteo: height = 0.05000000000000001
+1.8484 	EXP 	InicioConteo: height = 0.05000000000000001
+1.8484 	EXP 	InicioConteo: height = 0.05000000000000001
+1.8484 	EXP 	InicioConteo: text = 'Comenzamos en : 2'
+1.8484 	EXP 	InicioConteo: autoDraw = True
+2.8214 	EXP 	New trial (rep=0, index=2): {'PreguntaOff': '¿Hay algún inconveniente que recuerde haber experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOn': 5, 'Colors': 'white', 'Conteo': 'Comenzamos en : 3'}
+2.8474 	EXP 	InicioConteo: autoDraw = False
+2.8474 	EXP 	InicioConteo: height = 0.05000000000000001
+2.8474 	EXP 	InicioConteo: height = 0.05000000000000001
+2.8474 	EXP 	InicioConteo: height = 0.05000000000000001
+2.8474 	EXP 	InicioConteo: text = 'Comenzamos en : 3'
+2.8474 	EXP 	InicioConteo: autoDraw = True
+3.8207 	EXP 	New trial (rep=0, index=3): {'PreguntaOff': '¿recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOn': 7, 'Colors': 'blue', 'Conteo': None}
+3.8333 	EXP 	InicioConteo: autoDraw = False
+3.8333 	EXP 	InicioConteo: height = 0.05000000000000001
+3.8333 	EXP 	InicioConteo: height = 0.05000000000000001
+3.8333 	EXP 	InicioConteo: height = 0.05000000000000001
+3.8333 	EXP 	InicioConteo: text = 'Comenzamos en : 3'
+3.8333 	EXP 	InicioConteo: autoDraw = True
+4.8197 	EXP 	New trial (rep=0, index=4): {'PreguntaOff': ' ¿Puede recordar el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOn': 9, 'Colors': 'yellow', 'Conteo': None}
+4.8327 	EXP 	InicioConteo: autoDraw = False
+4.8327 	EXP 	InicioConteo: height = 0.05000000000000001
+4.8327 	EXP 	InicioConteo: height = 0.05000000000000001
+4.8327 	EXP 	InicioConteo: height = 0.05000000000000001
+4.8327 	EXP 	InicioConteo: text = 'Comenzamos en : 3'
+4.8327 	EXP 	InicioConteo: autoDraw = True
+5.8188 	EXP 	New trial (rep=0, index=5): {'PreguntaOff': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOn': 11, 'Colors': 'orange', 'Conteo': None}
+5.8315 	EXP 	InicioConteo: autoDraw = False
+5.8315 	EXP 	InicioConteo: height = 0.05000000000000001
+5.8315 	EXP 	InicioConteo: height = 0.05000000000000001
+5.8315 	EXP 	InicioConteo: height = 0.05000000000000001
+5.8315 	EXP 	InicioConteo: text = 'Comenzamos en : 3'
+5.8315 	EXP 	InicioConteo: autoDraw = True
+6.8183 	EXP 	New trial (rep=0, index=6): {'PreguntaOff': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOn': 13, 'Colors': 'brown', 'Conteo': None}
+6.8457 	EXP 	InicioConteo: autoDraw = False
+6.8457 	EXP 	InicioConteo: height = 0.05000000000000001
+6.8457 	EXP 	InicioConteo: height = 0.05000000000000001
+6.8457 	EXP 	InicioConteo: height = 0.05000000000000001
+6.8457 	EXP 	InicioConteo: text = 'Comenzamos en : 3'
+6.8457 	EXP 	InicioConteo: autoDraw = True
+7.3362 	DATA 	Mouse: Left button down, pos=(490,497)
+7.4867 	DATA 	Mouse:  Left button up, pos=(490,497)
+7.4870 	DATA 	Mouse: Left button down, pos=(490,497)
+7.6691 	DATA 	Mouse:  Left button up, pos=(490,497)
+7.6693 	DATA 	Mouse: Left button down, pos=(490,497)
+7.8026 	DATA 	Mouse:  Left button up, pos=(490,497)
+7.8175 	EXP 	New trial (rep=0, index=7): {'PreguntaOff': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOn': 15, 'Colors': 'purple', 'Conteo': None}
+7.8451 	EXP 	InicioConteo: autoDraw = False
+7.8451 	EXP 	InicioConteo: height = 0.05000000000000001
+7.8451 	EXP 	InicioConteo: height = 0.05000000000000001
+7.8451 	EXP 	InicioConteo: height = 0.05000000000000001
+7.8451 	EXP 	InicioConteo: text = 'Comenzamos en : 3'
+7.8451 	EXP 	InicioConteo: autoDraw = True
+8.8980 	EXP 	New trial (rep=0, index=8): {'PreguntaOff': ' ¿Puede recordar qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOn': 17, 'Colors': 'green', 'Conteo': None}
+8.9138 	EXP 	InicioConteo: autoDraw = False
+8.9138 	EXP 	InicioConteo: height = 0.05000000000000001
+8.9138 	EXP 	InicioConteo: height = 0.05000000000000001
+8.9138 	EXP 	InicioConteo: height = 0.05000000000000001
+8.9138 	EXP 	InicioConteo: text = 'Comenzamos en : 3'
+8.9138 	EXP 	InicioConteo: autoDraw = True
+9.8161 	EXP 	New trial (rep=0, index=9): {'PreguntaOff': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOn': 19, 'Colors': 'red', 'Conteo': None}
+9.8433 	EXP 	InicioConteo: autoDraw = False
+9.8433 	EXP 	InicioConteo: height = 0.05000000000000001
+9.8433 	EXP 	InicioConteo: height = 0.05000000000000001
+9.8433 	EXP 	InicioConteo: height = 0.05000000000000001
+9.8433 	EXP 	InicioConteo: text = 'Comenzamos en : 3'
+9.8433 	EXP 	InicioConteo: autoDraw = True
+10.8157 	EXP 	New trial (rep=0, index=10): {'PreguntaOff': None, 'PreguntaOn': 21, 'Colors': 'white', 'Conteo': None}
+10.8424 	EXP 	InicioConteo: autoDraw = False
+10.8424 	EXP 	InicioConteo: height = 0.05000000000000001
+10.8424 	EXP 	InicioConteo: height = 0.05000000000000001
+10.8424 	EXP 	InicioConteo: height = 0.05000000000000001
+10.8424 	EXP 	InicioConteo: text = 'Comenzamos en : 3'
+10.8424 	EXP 	InicioConteo: autoDraw = True
+11.1550 	DATA 	Keypress: escape
+11.3151 	EXP 	ArchivoPrueba: status = STOPPED
+11.3266 	EXP 	InicioConteo: autoDraw = False
+11.3303 	EXP 	ArchivoPrueba: status = STOPPED
+11.3585 	INFO 	saved data to 'C:\\Users\\andre\\Desktop\\Imagenes\\Taller_unidad3\\data/645008_ArchivoPrueba_2024-04-28_11h23.47.709.csv'
+11.3599 	INFO 	saved data to C:\Users\andre\Desktop\Imagenes\Taller_unidad3\data/645008_ArchivoPrueba_2024-04-28_11h23.47.709.psydat
+11.4218 	EXP 	window1: mouseVisible = True
+11.9348 	DEBUG 	Saving data for ArchivoPrueba ExperimentHandler
