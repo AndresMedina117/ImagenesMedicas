@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.1.1),
-    on abril 28, 2024, at 13:53
+    on abril 28, 2024, at 18:57
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -128,7 +128,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version='',
         extraInfo=expInfo, runtimeInfo=None,
-        originPath='C:\\Users\\andre\\Desktop\\Imagenes\\Taller_unidad3\\ArchivoPrueba_lastrun.py',
+        originPath='C:\\Users\\andre\\Desktop\\Imagenes\\Gihub_andres_medina\\ImagenesMedicas\\Taller_unidad3\\ArchivoPrueba.py',
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
@@ -182,9 +182,9 @@ def setupWindow(expInfo=None, win=None):
     if win is None:
         # if not given a window to setup, make one
         win = visual.Window(
-            size=(1024, 768), fullscr=_fullScr, screen=0,
+            size=[1536, 864], fullscr=_fullScr, screen=0,
             winType='pyglet', allowStencil=False,
-            monitor='testMonitor', color=[0,0,0], colorSpace='rgb',
+            monitor='testMonitor', color=[-1.0000, -1.0000, -1.0000], colorSpace='rgb',
             backgroundImage='', backgroundFit='none',
             blendMode='avg', useFBO=True,
             units='height', 
@@ -192,7 +192,7 @@ def setupWindow(expInfo=None, win=None):
         )
     else:
         # if we have a window, just set the attributes which are safe to set
-        win.color = [0,0,0]
+        win.color = [-1.0000, -1.0000, -1.0000]
         win.colorSpace = 'rgb'
         win.backgroundImage = ''
         win.backgroundFit = 'none'
@@ -361,17 +361,17 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     x, y = [None, None]
     mouse.mouseClock = core.Clock()
     
-    # --- Initialize components for Routine "Off" ---
-    CondicionOff = visual.TextStim(win=win, name='CondicionOff',
+    # --- Initialize components for Routine "On" ---
+    CondicionOn = visual.TextStim(win=win, name='CondicionOn',
         text='',
         font='Open Sans',
         pos=(0, 0), height=0.05, wrapWidth=None, ori=0.0, 
-        color='white', colorSpace='rgb', opacity=None, 
+        color='white', colorSpace='rgb', opacity=1.0, 
         languageStyle='LTR',
         depth=0.0);
     
-    # --- Initialize components for Routine "On" ---
-    CondicionOn = visual.TextStim(win=win, name='CondicionOn',
+    # --- Initialize components for Routine "Off" ---
+    CondicionOff = visual.TextStim(win=win, name='CondicionOff',
         text='',
         font='Open Sans',
         pos=(0, 0), height=0.1, wrapWidth=None, ori=0.0, 
@@ -558,15 +558,15 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             for paramName in thisPrueba:
                 globals()[paramName] = thisPrueba[paramName]
         
-        # --- Prepare to start Routine "Off" ---
+        # --- Prepare to start Routine "On" ---
         continueRoutine = True
         # update component parameters for each repeat
-        thisExp.addData('Off.started', globalClock.getTime(format='float'))
-        CondicionOff.setText(PreguntaOff
+        thisExp.addData('On.started', globalClock.getTime(format='float'))
+        CondicionOn.setText(PreguntaOn
         )
         # keep track of which components have finished
-        OffComponents = [CondicionOff]
-        for thisComponent in OffComponents:
+        OnComponents = [CondicionOn]
+        for thisComponent in OnComponents:
             thisComponent.tStart = None
             thisComponent.tStop = None
             thisComponent.tStartRefresh = None
@@ -578,7 +578,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         _timeToFirstFrame = win.getFutureFlipTime(clock="now")
         frameN = -1
         
-        # --- Run Routine "Off" ---
+        # --- Run Routine "On" ---
         routineForceEnded = not continueRoutine
         while continueRoutine and routineTimer.getTime() < 20.0:
             # get current time
@@ -588,39 +588,39 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
             # update/draw components on each frame
             
-            # *CondicionOff* updates
+            # *CondicionOn* updates
             
-            # if CondicionOff is starting this frame...
-            if CondicionOff.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+            # if CondicionOn is starting this frame...
+            if CondicionOn.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
                 # keep track of start time/frame for later
-                CondicionOff.frameNStart = frameN  # exact frame index
-                CondicionOff.tStart = t  # local t and not account for scr refresh
-                CondicionOff.tStartRefresh = tThisFlipGlobal  # on global time
-                win.timeOnFlip(CondicionOff, 'tStartRefresh')  # time at next scr refresh
+                CondicionOn.frameNStart = frameN  # exact frame index
+                CondicionOn.tStart = t  # local t and not account for scr refresh
+                CondicionOn.tStartRefresh = tThisFlipGlobal  # on global time
+                win.timeOnFlip(CondicionOn, 'tStartRefresh')  # time at next scr refresh
                 # add timestamp to datafile
-                thisExp.timestampOnFlip(win, 'CondicionOff.started')
+                thisExp.timestampOnFlip(win, 'CondicionOn.started')
                 # update status
-                CondicionOff.status = STARTED
-                CondicionOff.setAutoDraw(True)
+                CondicionOn.status = STARTED
+                CondicionOn.setAutoDraw(True)
             
-            # if CondicionOff is active this frame...
-            if CondicionOff.status == STARTED:
+            # if CondicionOn is active this frame...
+            if CondicionOn.status == STARTED:
                 # update params
                 pass
             
-            # if CondicionOff is stopping this frame...
-            if CondicionOff.status == STARTED:
+            # if CondicionOn is stopping this frame...
+            if CondicionOn.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > CondicionOff.tStartRefresh + 20-frameTolerance:
+                if tThisFlipGlobal > CondicionOn.tStartRefresh + 20-frameTolerance:
                     # keep track of stop time/frame for later
-                    CondicionOff.tStop = t  # not accounting for scr refresh
-                    CondicionOff.tStopRefresh = tThisFlipGlobal  # on global time
-                    CondicionOff.frameNStop = frameN  # exact frame index
+                    CondicionOn.tStop = t  # not accounting for scr refresh
+                    CondicionOn.tStopRefresh = tThisFlipGlobal  # on global time
+                    CondicionOn.frameNStop = frameN  # exact frame index
                     # add timestamp to datafile
-                    thisExp.timestampOnFlip(win, 'CondicionOff.stopped')
+                    thisExp.timestampOnFlip(win, 'CondicionOn.stopped')
                     # update status
-                    CondicionOff.status = FINISHED
-                    CondicionOff.setAutoDraw(False)
+                    CondicionOn.status = FINISHED
+                    CondicionOn.setAutoDraw(False)
             
             # check for quit (typically the Esc key)
             if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -634,7 +634,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 routineForceEnded = True
                 break
             continueRoutine = False  # will revert to True if at least one component still running
-            for thisComponent in OffComponents:
+            for thisComponent in OnComponents:
                 if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
                     continueRoutine = True
                     break  # at least one component has not yet finished
@@ -643,11 +643,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
                 win.flip()
         
-        # --- Ending Routine "Off" ---
-        for thisComponent in OffComponents:
+        # --- Ending Routine "On" ---
+        for thisComponent in OnComponents:
             if hasattr(thisComponent, "setAutoDraw"):
                 thisComponent.setAutoDraw(False)
-        thisExp.addData('Off.stopped', globalClock.getTime(format='float'))
+        thisExp.addData('On.stopped', globalClock.getTime(format='float'))
         # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
         if routineForceEnded:
             routineTimer.reset()
@@ -682,16 +682,16 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 for paramName in thisRepeticionOn:
                     globals()[paramName] = thisRepeticionOn[paramName]
             
-            # --- Prepare to start Routine "On" ---
+            # --- Prepare to start Routine "Off" ---
             continueRoutine = True
             # update component parameters for each repeat
-            thisExp.addData('On.started', globalClock.getTime(format='float'))
-            CondicionOn.setColor(Colors, colorSpace='rgb')
-            CondicionOn.setText(PreguntaOn
+            thisExp.addData('Off.started', globalClock.getTime(format='float'))
+            CondicionOff.setColor(Colors, colorSpace='rgb')
+            CondicionOff.setText(PreguntaOff
             )
             # keep track of which components have finished
-            OnComponents = [CondicionOn]
-            for thisComponent in OnComponents:
+            OffComponents = [CondicionOff]
+            for thisComponent in OffComponents:
                 thisComponent.tStart = None
                 thisComponent.tStop = None
                 thisComponent.tStartRefresh = None
@@ -703,7 +703,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             _timeToFirstFrame = win.getFutureFlipTime(clock="now")
             frameN = -1
             
-            # --- Run Routine "On" ---
+            # --- Run Routine "Off" ---
             routineForceEnded = not continueRoutine
             while continueRoutine and routineTimer.getTime() < 1.0:
                 # get current time
@@ -713,39 +713,39 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
                 # update/draw components on each frame
                 
-                # *CondicionOn* updates
+                # *CondicionOff* updates
                 
-                # if CondicionOn is starting this frame...
-                if CondicionOn.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+                # if CondicionOff is starting this frame...
+                if CondicionOff.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
                     # keep track of start time/frame for later
-                    CondicionOn.frameNStart = frameN  # exact frame index
-                    CondicionOn.tStart = t  # local t and not account for scr refresh
-                    CondicionOn.tStartRefresh = tThisFlipGlobal  # on global time
-                    win.timeOnFlip(CondicionOn, 'tStartRefresh')  # time at next scr refresh
+                    CondicionOff.frameNStart = frameN  # exact frame index
+                    CondicionOff.tStart = t  # local t and not account for scr refresh
+                    CondicionOff.tStartRefresh = tThisFlipGlobal  # on global time
+                    win.timeOnFlip(CondicionOff, 'tStartRefresh')  # time at next scr refresh
                     # add timestamp to datafile
-                    thisExp.timestampOnFlip(win, 'CondicionOn.started')
+                    thisExp.timestampOnFlip(win, 'CondicionOff.started')
                     # update status
-                    CondicionOn.status = STARTED
-                    CondicionOn.setAutoDraw(True)
+                    CondicionOff.status = STARTED
+                    CondicionOff.setAutoDraw(True)
                 
-                # if CondicionOn is active this frame...
-                if CondicionOn.status == STARTED:
+                # if CondicionOff is active this frame...
+                if CondicionOff.status == STARTED:
                     # update params
                     pass
                 
-                # if CondicionOn is stopping this frame...
-                if CondicionOn.status == STARTED:
+                # if CondicionOff is stopping this frame...
+                if CondicionOff.status == STARTED:
                     # is it time to stop? (based on global clock, using actual start)
-                    if tThisFlipGlobal > CondicionOn.tStartRefresh + 1-frameTolerance:
+                    if tThisFlipGlobal > CondicionOff.tStartRefresh + 1-frameTolerance:
                         # keep track of stop time/frame for later
-                        CondicionOn.tStop = t  # not accounting for scr refresh
-                        CondicionOn.tStopRefresh = tThisFlipGlobal  # on global time
-                        CondicionOn.frameNStop = frameN  # exact frame index
+                        CondicionOff.tStop = t  # not accounting for scr refresh
+                        CondicionOff.tStopRefresh = tThisFlipGlobal  # on global time
+                        CondicionOff.frameNStop = frameN  # exact frame index
                         # add timestamp to datafile
-                        thisExp.timestampOnFlip(win, 'CondicionOn.stopped')
+                        thisExp.timestampOnFlip(win, 'CondicionOff.stopped')
                         # update status
-                        CondicionOn.status = FINISHED
-                        CondicionOn.setAutoDraw(False)
+                        CondicionOff.status = FINISHED
+                        CondicionOff.setAutoDraw(False)
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -759,7 +759,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                     routineForceEnded = True
                     break
                 continueRoutine = False  # will revert to True if at least one component still running
-                for thisComponent in OnComponents:
+                for thisComponent in OffComponents:
                     if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
                         continueRoutine = True
                         break  # at least one component has not yet finished
@@ -768,11 +768,11 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
                     win.flip()
             
-            # --- Ending Routine "On" ---
-            for thisComponent in OnComponents:
+            # --- Ending Routine "Off" ---
+            for thisComponent in OffComponents:
                 if hasattr(thisComponent, "setAutoDraw"):
                     thisComponent.setAutoDraw(False)
-            thisExp.addData('On.stopped', globalClock.getTime(format='float'))
+            thisExp.addData('Off.stopped', globalClock.getTime(format='float'))
             # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
             if routineForceEnded:
                 routineTimer.reset()

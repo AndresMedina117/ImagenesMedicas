@@ -1,0 +1,825 @@
+﻿<?xml version="1.0" ?>
+<PsychoPy2experiment encoding="utf-8" version="2024.1.1">
+  <Settings>
+    <Param val="3" valType="str" updates="None" name="Audio latency priority"/>
+    <Param val="ptb" valType="str" updates="None" name="Audio lib"/>
+    <Param val="" valType="str" updates="None" name="Completed URL"/>
+    <Param val="auto" valType="str" updates="None" name="Data file delimiter"/>
+    <Param val="u'data/%s_%s_%s' % (expInfo['participant'], expName, expInfo['date'])" valType="code" updates="None" name="Data filename"/>
+    <Param val="True" valType="bool" updates="None" name="Enable Escape"/>
+    <Param val="" valType="str" updates="None" name="End Message"/>
+    <Param val="{'participant': 'f&quot;{randint(0, 999999):06.0f}&quot;', 'session': '001'}" valType="code" updates="None" name="Experiment info"/>
+    <Param val="True" valType="bool" updates="None" name="Force stereo"/>
+    <Param val="True" valType="bool" updates="None" name="Full-screen window"/>
+    <Param val="" valType="str" updates="None" name="HTML path"/>
+    <Param val="" valType="str" updates="None" name="Incomplete URL"/>
+    <Param val="testMonitor" valType="str" updates="None" name="Monitor"/>
+    <Param val="[]" valType="list" updates="None" name="Resources"/>
+    <Param val="False" valType="bool" updates="None" name="Save csv file"/>
+    <Param val="False" valType="bool" updates="None" name="Save excel file"/>
+    <Param val="False" valType="bool" updates="None" name="Save hdf5 file"/>
+    <Param val="True" valType="bool" updates="None" name="Save log file"/>
+    <Param val="True" valType="bool" updates="None" name="Save psydat file"/>
+    <Param val="True" valType="bool" updates="None" name="Save wide csv file"/>
+    <Param val="1" valType="num" updates="None" name="Screen"/>
+    <Param val="True" valType="bool" updates="None" name="Show info dlg"/>
+    <Param val="False" valType="bool" updates="None" name="Show mouse"/>
+    <Param val="height" valType="str" updates="None" name="Units"/>
+    <Param val="" valType="str" updates="None" name="Use version"/>
+    <Param val="[1536, 864]" valType="list" updates="None" name="Window size (pixels)"/>
+    <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+    <Param val="" valType="str" updates="None" name="backgroundImg"/>
+    <Param val="avg" valType="str" updates="None" name="blendMode"/>
+    <Param val="float" valType="str" updates="None" name="clockFormat"/>
+    <Param val="{'thisRow.t': 'priority.CRITICAL', 'expName': 'priority.LOW'}" valType="dict" updates="None" name="colPriority"/>
+    <Param val="-1.0000, -1.0000, -1.0000" valType="color" updates="None" name="color"/>
+    <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+    <Param val="100.1.1.1" valType="str" updates="None" name="elAddress"/>
+    <Param val="FILTER_LEVEL_2" valType="str" updates="None" name="elDataFiltering"/>
+    <Param val="FILTER_LEVEL_OFF" valType="str" updates="None" name="elLiveFiltering"/>
+    <Param val="EYELINK 1000 DESKTOP" valType="str" updates="None" name="elModel"/>
+    <Param val="ELLIPSE_FIT" valType="str" updates="None" name="elPupilAlgorithm"/>
+    <Param val="PUPIL_AREA" valType="str" updates="None" name="elPupilMeasure"/>
+    <Param val="1000" valType="num" updates="None" name="elSampleRate"/>
+    <Param val="False" valType="bool" updates="None" name="elSimMode"/>
+    <Param val="RIGHT_EYE" valType="str" updates="None" name="elTrackEyes"/>
+    <Param val="PUPIL_CR_TRACKING" valType="str" updates="None" name="elTrackingMode"/>
+    <Param val="ArchivoPrueba" valType="str" updates="None" name="expName"/>
+    <Param val="on Sync" valType="str" updates="None" name="exportHTML"/>
+    <Param val="None" valType="str" updates="None" name="eyetracker"/>
+    <Param val="" valType="code" updates="None" name="frameRate"/>
+    <Param val="Attempting to measure frame rate of screen, please wait..." valType="str" updates="None" name="frameRateMsg"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="gpAddress"/>
+    <Param val="4242" valType="num" updates="None" name="gpPort"/>
+    <Param val="ioHub" valType="str" updates="None" name="keyboardBackend"/>
+    <Param val="warning" valType="code" updates="None" name="logging level"/>
+    <Param val="True" valType="bool" updates="None" name="measureFrameRate"/>
+    <Param val="('MIDDLE_BUTTON',)" valType="list" updates="None" name="mgBlink"/>
+    <Param val="CONTINUOUS" valType="str" updates="None" name="mgMove"/>
+    <Param val="0.5" valType="num" updates="None" name="mgSaccade"/>
+    <Param val="neon.local" valType="str" updates="None" name="plCompanionAddress"/>
+    <Param val="8080" valType="num" updates="None" name="plCompanionPort"/>
+    <Param val="True" valType="bool" updates="None" name="plCompanionRecordingEnabled"/>
+    <Param val="0.6" valType="num" updates="None" name="plConfidenceThreshold"/>
+    <Param val="True" valType="bool" updates="None" name="plPupilCaptureRecordingEnabled"/>
+    <Param val="" valType="str" updates="None" name="plPupilCaptureRecordingLocation"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="plPupilRemoteAddress"/>
+    <Param val="50020" valType="num" updates="None" name="plPupilRemotePort"/>
+    <Param val="1000" valType="num" updates="None" name="plPupilRemoteTimeoutMs"/>
+    <Param val="False" valType="bool" updates="None" name="plPupillometryOnly"/>
+    <Param val="psychopy_iohub_surface" valType="str" updates="None" name="plSurfaceName"/>
+    <Param val="0" valType="code" updates="None" name="runMode"/>
+    <Param val="False" valType="bool" updates="None" name="rush"/>
+    <Param val="time" valType="str" updates="None" name="sortColumns"/>
+    <Param val="" valType="str" updates="None" name="tbLicenseFile"/>
+    <Param val="" valType="str" updates="None" name="tbModel"/>
+    <Param val="60" valType="num" updates="None" name="tbSampleRate"/>
+    <Param val="" valType="str" updates="None" name="tbSerialNo"/>
+    <Param val="pyglet" valType="str" updates="None" name="winBackend"/>
+  </Settings>
+  <Routines>
+    <Routine name="introducción_3">
+      <RoutineSettingsComponent name="introducción_3" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="introducción_3" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="introducción" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="introducción" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="Intente recordar el recorrido que realiza por las zonas que se le indiquen. Cuando comience el conteo, intente seguir la secuencia del mismo." valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <MouseComponent name="mouse" plugin="None">
+        <Param val="" valType="list" updates="constant" name="clickable"/>
+        <Param val="" valType="list" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="any click" valType="str" updates="constant" name="forceEndRoutineOnPress"/>
+        <Param val="mouse" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="constant" name="newClicksOnly"/>
+        <Param val="on click" valType="str" updates="None" name="saveMouseState"/>
+        <Param val="name," valType="list" updates="constant" name="saveParamsClickable"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="False" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="mouse onset" valType="str" updates="constant" name="timeRelativeTo"/>
+      </MouseComponent>
+    </Routine>
+    <Routine name="FInalizacion">
+      <RoutineSettingsComponent name="FInalizacion" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="FInalizacion" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="FinPrueba" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="FinPrueba" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="30" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="Te informamos que la adquisición ha finalizado. ¡Muchas gracias por participar!&amp;#10; " valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <MouseComponent name="mouse_2" plugin="None">
+        <Param val="" valType="list" updates="constant" name="clickable"/>
+        <Param val="" valType="list" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="any click" valType="str" updates="constant" name="forceEndRoutineOnPress"/>
+        <Param val="mouse_2" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="constant" name="newClicksOnly"/>
+        <Param val="on click" valType="str" updates="None" name="saveMouseState"/>
+        <Param val="name," valType="list" updates="constant" name="saveParamsClickable"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="False" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="mouse onset" valType="str" updates="constant" name="timeRelativeTo"/>
+      </MouseComponent>
+    </Routine>
+    <Routine name="Off">
+      <RoutineSettingsComponent name="Off" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="Off" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="CondicionOff" plugin="None">
+        <Param val="$Colors" valType="color" updates="set every repeat" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.1" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="CondicionOff" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="1" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="$PreguntaOff&amp;#10;" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On">
+      <RoutineSettingsComponent name="On" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="CondicionOn" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="CondicionOn" valType="code" updates="None" name="name"/>
+        <Param val="1" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?&amp;#10;&amp;#10;" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On1">
+      <RoutineSettingsComponent name="On1" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On1" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="text" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On2">
+      <RoutineSettingsComponent name="On2" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On2" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="text_2" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text_2" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On3">
+      <RoutineSettingsComponent name="On3" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On3" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="text_3" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text_3" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On4">
+      <RoutineSettingsComponent name="On4" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On4" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="text_4" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text_4" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val=" ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On5">
+      <RoutineSettingsComponent name="On5" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On5" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="text_5" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text_5" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On6">
+      <RoutineSettingsComponent name="On6" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On6" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="text_6" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text_6" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On7">
+      <RoutineSettingsComponent name="On7" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On7" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="text_7" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text_7" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On8">
+      <RoutineSettingsComponent name="On8" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On8" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="text_8" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text_8" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val=" ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+    <Routine name="On9">
+      <RoutineSettingsComponent name="On9" plugin="None">
+        <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+        <Param val="" valType="str" updates="None" name="backgroundImg"/>
+        <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+        <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+        <Param val="" valType="str" updates="constant" name="desc"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="On9" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="constant" name="skipIf"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="False" valType="bool" updates="None" name="useWindowParams"/>
+      </RoutineSettingsComponent>
+      <TextComponent name="text_9" plugin="None">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="0.05" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text_9" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="time (s)" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (s)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?&amp;#10;" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="code" updates="None" name="validator"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+  </Routines>
+  <Flow>
+    <Routine name="introducción_3"/>
+    <Routine name="On"/>
+    <LoopInitiator loopType="TrialHandler" name="RepeticionOn">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="RepeticionOn" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="RepeticionOn"/>
+    <Routine name="On1"/>
+    <LoopInitiator loopType="TrialHandler" name="trials">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="trials"/>
+    <Routine name="On2"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_2">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials_2" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="trials_2"/>
+    <Routine name="On3"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_3">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials_3" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="trials_3"/>
+    <Routine name="On4"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_4">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials_4" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="trials_4"/>
+    <Routine name="On5"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_5">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials_5" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="trials_5"/>
+    <Routine name="On6"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_6">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials_6" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="trials_6"/>
+    <Routine name="On7"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_7">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials_7" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="trials_7"/>
+    <Routine name="On8"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_8">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials_8" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="trials_8"/>
+    <Routine name="On9"/>
+    <LoopInitiator loopType="TrialHandler" name="trials_9">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}, {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}, {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}, {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}, {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}, {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}, {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}, {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}, {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}, {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}, {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}, {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}, {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}, {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}, {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}, {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}, {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}]" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="CondicionesExperimento.xlsx" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="sequential" valType="str"/>
+      <Param name="nReps" updates="None" val="1" valType="num"/>
+      <Param name="name" updates="None" val="trials_9" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="Off"/>
+    <LoopTerminator name="trials_9"/>
+    <Routine name="FInalizacion"/>
+  </Flow>
+</PsychoPy2experiment>

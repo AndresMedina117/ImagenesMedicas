@@ -1,0 +1,1128 @@
+12.5347 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+12.5362 	INFO 	Loaded monitor calibration from ['2024_04_12 16:30']
+13.9048 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024EEC799970>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024EEC799910>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1., -1., -1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024EEC799760>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000024EECA91D30>, multiSample=False, name='window1', numSamples=2, pos=[192.0, 108.0], screen=0, size=array([1536,  864]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.9050 	EXP 	window1: mouseVisible = True
+13.9051 	EXP 	window1: backgroundImage = ''
+13.9051 	EXP 	window1: backgroundFit = 'none'
+13.9053 	EXP 	window1: mouseVisible = True
+13.9057 	EXP 	window1: mouseVisible = True
+13.9085 	EXP 	window1: mouseVisible = True
+13.9095 	EXP 	window1: mouseVisible = True
+13.9311 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9345 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9379 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9421 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9464 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9492 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9526 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9568 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9590 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9613 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9650 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9684 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9721 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9758 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9793 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9832 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9871 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9898 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9935 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.9986 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0012 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0018 	DEBUG 	Uploading Texture Font fontname to graphics card
+14.0245 	DEBUG 	Upload of Texture Font fontname complete
+14.0267 	EXP 	window1: mouseVisible = True
+14.0269 	EXP 	window1: mouseVisible = True
+14.0280 	EXP 	window1: mouseVisible = True
+14.0290 	EXP 	window1: mouseVisible = True
+14.0507 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0548 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0588 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0592 	DEBUG 	Uploading Texture Font fontname to graphics card
+14.0780 	DEBUG 	Upload of Texture Font fontname complete
+14.0816 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+14.0816 	EXP 	window1: recordFrameIntervals = False
+14.2701 	EXP 	window1: recordFrameIntervals = True
+14.4533 	EXP 	Screen (0) actual frame rate measured at 60.04Hz
+14.4534 	EXP 	window1: recordFrameIntervals = False
+14.4535 	EXP 	window1: mouseVisible = False
+14.4544 	EXP 	window1: mouseVisible = True
+14.4547 	EXP 	window1: mouseVisible = True
+14.4558 	EXP 	window1: mouseVisible = True
+14.4567 	EXP 	window1: mouseVisible = True
+14.4763 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.4794 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.4832 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.4881 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.4927 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.4974 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5005 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5049 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5092 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5136 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5141 	DEBUG 	Uploading Texture Font fontname to graphics card
+14.5335 	DEBUG 	Upload of Texture Font fontname complete
+14.5359 	EXP 	window1: mouseVisible = True
+14.5362 	EXP 	window1: mouseVisible = True
+14.5371 	EXP 	window1: mouseVisible = True
+14.5380 	EXP 	window1: mouseVisible = True
+14.6021 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+18.8459 	INFO 	keyboard.Keyboard is using iohub backend.
+18.8459 	EXP 	ArchivoPrueba: status = STARTED
+18.8463 	EXP 	window1: mouseVisible = True
+18.9707 	EXP 	Created introducción = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='introducción', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.9708 	EXP 	window1: mouseVisible = True
+18.9710 	EXP 	window1: mouseVisible = True
+18.9728 	EXP 	Created CondicionOn = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='CondicionOn', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.9730 	EXP 	window1: mouseVisible = True
+18.9781 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.9784 	EXP 	window1: mouseVisible = True
+19.0033 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.0034 	EXP 	window1: mouseVisible = True
+19.0055 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.0057 	EXP 	window1: mouseVisible = True
+19.0194 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.0196 	EXP 	window1: mouseVisible = True
+19.0217 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.0219 	EXP 	window1: mouseVisible = True
+19.0318 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.0320 	EXP 	window1: mouseVisible = True
+19.0338 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.0340 	EXP 	window1: mouseVisible = True
+19.0445 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.0447 	EXP 	window1: mouseVisible = True
+19.0467 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.0469 	EXP 	window1: mouseVisible = True
+19.0547 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.0550 	EXP 	window1: mouseVisible = True
+19.0568 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.0570 	EXP 	window1: mouseVisible = True
+19.0643 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.0645 	EXP 	window1: mouseVisible = True
+19.0663 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.0665 	EXP 	window1: mouseVisible = True
+19.0745 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.0747 	EXP 	window1: mouseVisible = True
+19.0767 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.0769 	EXP 	window1: mouseVisible = True
+19.0902 	EXP 	Created text_8 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_8', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.0903 	EXP 	window1: mouseVisible = True
+19.0926 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.0928 	EXP 	window1: mouseVisible = True
+19.0997 	EXP 	Created text_9 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_9', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.0999 	EXP 	window1: mouseVisible = True
+19.1017 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.1020 	EXP 	window1: mouseVisible = True
+19.1038 	EXP 	Created FinPrueba = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='FinPrueba', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+19.1039 	EXP 	window1: mouseVisible = True
+0.0506 	EXP 	introducción: autoDraw = True
+15.3711 	DATA 	Mouse: Left button down, pos=(415,557)
+15.3985 	EXP 	introducción: autoDraw = False
+15.3985 	EXP 	CondicionOn: height = 0.05
+15.3985 	EXP 	CondicionOn: height = 0.05
+15.3985 	EXP 	CondicionOn: height = 0.05
+15.3985 	EXP 	CondicionOn: text = '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?\n\n'
+15.3985 	EXP 	CondicionOn: autoDraw = True
+15.5799 	DATA 	Mouse:  Left button up, pos=(415,557)
+35.3986 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+35.4000 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 20 conditions, 3 params
+35.4007 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+35.4010 	EXP 	New trial (rep=0, index=0): {'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}
+35.4303 	EXP 	CondicionOn: autoDraw = False
+35.4303 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+35.4303 	EXP 	CondicionOff: height = 0.1
+35.4303 	EXP 	CondicionOff: height = 0.1
+35.4303 	EXP 	CondicionOff: height = 0.1
+35.4303 	EXP 	CondicionOff: text = 1
+35.4303 	EXP 	CondicionOff: autoDraw = True
+36.3863 	EXP 	New trial (rep=0, index=1): {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}
+36.4126 	EXP 	CondicionOff: autoDraw = False
+36.4126 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+36.4126 	EXP 	CondicionOff: height = 0.1
+36.4126 	EXP 	CondicionOff: height = 0.1
+36.4126 	EXP 	CondicionOff: height = 0.1
+36.4126 	EXP 	CondicionOff: text = 3
+36.4126 	EXP 	CondicionOff: autoDraw = True
+37.4024 	EXP 	New trial (rep=0, index=2): {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}
+37.4284 	EXP 	CondicionOff: autoDraw = False
+37.4284 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+37.4284 	EXP 	CondicionOff: height = 0.1
+37.4284 	EXP 	CondicionOff: height = 0.1
+37.4284 	EXP 	CondicionOff: height = 0.1
+37.4284 	EXP 	CondicionOff: text = 5
+37.4284 	EXP 	CondicionOff: autoDraw = True
+38.3882 	EXP 	New trial (rep=0, index=3): {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}
+38.4110 	EXP 	CondicionOff: autoDraw = False
+38.4110 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+38.4110 	EXP 	CondicionOff: height = 0.1
+38.4110 	EXP 	CondicionOff: height = 0.1
+38.4110 	EXP 	CondicionOff: height = 0.1
+38.4110 	EXP 	CondicionOff: text = 7
+38.4110 	EXP 	CondicionOff: autoDraw = True
+39.3860 	EXP 	New trial (rep=0, index=4): {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}
+39.4103 	EXP 	CondicionOff: autoDraw = False
+39.4103 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+39.4103 	EXP 	CondicionOff: height = 0.1
+39.4103 	EXP 	CondicionOff: height = 0.1
+39.4103 	EXP 	CondicionOff: height = 0.1
+39.4103 	EXP 	CondicionOff: text = 9
+39.4103 	EXP 	CondicionOff: autoDraw = True
+40.3851 	EXP 	New trial (rep=0, index=5): {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}
+40.4124 	EXP 	CondicionOff: autoDraw = False
+40.4124 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+40.4124 	EXP 	CondicionOff: height = 0.1
+40.4124 	EXP 	CondicionOff: height = 0.1
+40.4124 	EXP 	CondicionOff: height = 0.1
+40.4124 	EXP 	CondicionOff: text = 11
+40.4124 	EXP 	CondicionOff: autoDraw = True
+41.3836 	EXP 	New trial (rep=0, index=6): {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}
+41.4116 	EXP 	CondicionOff: autoDraw = False
+41.4116 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+41.4116 	EXP 	CondicionOff: height = 0.1
+41.4116 	EXP 	CondicionOff: height = 0.1
+41.4116 	EXP 	CondicionOff: height = 0.1
+41.4116 	EXP 	CondicionOff: text = 13
+41.4116 	EXP 	CondicionOff: autoDraw = True
+42.3811 	EXP 	New trial (rep=0, index=7): {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}
+42.4105 	EXP 	CondicionOff: autoDraw = False
+42.4105 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+42.4105 	EXP 	CondicionOff: height = 0.1
+42.4105 	EXP 	CondicionOff: height = 0.1
+42.4105 	EXP 	CondicionOff: height = 0.1
+42.4105 	EXP 	CondicionOff: text = 15
+42.4105 	EXP 	CondicionOff: autoDraw = True
+43.3819 	EXP 	New trial (rep=0, index=8): {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}
+43.4099 	EXP 	CondicionOff: autoDraw = False
+43.4099 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+43.4099 	EXP 	CondicionOff: height = 0.1
+43.4099 	EXP 	CondicionOff: height = 0.1
+43.4099 	EXP 	CondicionOff: height = 0.1
+43.4099 	EXP 	CondicionOff: text = 17
+43.4099 	EXP 	CondicionOff: autoDraw = True
+44.3810 	EXP 	New trial (rep=0, index=9): {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}
+44.4091 	EXP 	CondicionOff: autoDraw = False
+44.4091 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+44.4091 	EXP 	CondicionOff: height = 0.1
+44.4091 	EXP 	CondicionOff: height = 0.1
+44.4091 	EXP 	CondicionOff: height = 0.1
+44.4091 	EXP 	CondicionOff: text = 19
+44.4091 	EXP 	CondicionOff: autoDraw = True
+45.3947 	EXP 	New trial (rep=0, index=10): {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}
+45.4214 	EXP 	CondicionOff: autoDraw = False
+45.4214 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+45.4214 	EXP 	CondicionOff: height = 0.1
+45.4214 	EXP 	CondicionOff: height = 0.1
+45.4214 	EXP 	CondicionOff: height = 0.1
+45.4214 	EXP 	CondicionOff: text = 21
+45.4214 	EXP 	CondicionOff: autoDraw = True
+46.3772 	EXP 	New trial (rep=0, index=11): {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}
+46.4070 	EXP 	CondicionOff: autoDraw = False
+46.4070 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+46.4070 	EXP 	CondicionOff: height = 0.1
+46.4070 	EXP 	CondicionOff: height = 0.1
+46.4070 	EXP 	CondicionOff: height = 0.1
+46.4070 	EXP 	CondicionOff: text = 23
+46.4070 	EXP 	CondicionOff: autoDraw = True
+47.3933 	EXP 	New trial (rep=0, index=12): {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}
+47.4224 	EXP 	CondicionOff: autoDraw = False
+47.4224 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+47.4224 	EXP 	CondicionOff: height = 0.1
+47.4224 	EXP 	CondicionOff: height = 0.1
+47.4224 	EXP 	CondicionOff: height = 0.1
+47.4224 	EXP 	CondicionOff: text = 25
+47.4224 	EXP 	CondicionOff: autoDraw = True
+48.3778 	EXP 	New trial (rep=0, index=13): {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}
+48.4055 	EXP 	CondicionOff: autoDraw = False
+48.4055 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+48.4055 	EXP 	CondicionOff: height = 0.1
+48.4055 	EXP 	CondicionOff: height = 0.1
+48.4055 	EXP 	CondicionOff: height = 0.1
+48.4055 	EXP 	CondicionOff: text = 27
+48.4055 	EXP 	CondicionOff: autoDraw = True
+49.3917 	EXP 	New trial (rep=0, index=14): {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}
+49.4211 	EXP 	CondicionOff: autoDraw = False
+49.4211 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+49.4211 	EXP 	CondicionOff: height = 0.1
+49.4211 	EXP 	CondicionOff: height = 0.1
+49.4211 	EXP 	CondicionOff: height = 0.1
+49.4211 	EXP 	CondicionOff: text = 29
+49.4211 	EXP 	CondicionOff: autoDraw = True
+50.3920 	EXP 	New trial (rep=0, index=15): {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}
+50.4213 	EXP 	CondicionOff: autoDraw = False
+50.4213 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+50.4213 	EXP 	CondicionOff: height = 0.1
+50.4213 	EXP 	CondicionOff: height = 0.1
+50.4213 	EXP 	CondicionOff: height = 0.1
+50.4213 	EXP 	CondicionOff: text = 31
+50.4213 	EXP 	CondicionOff: autoDraw = True
+51.3755 	EXP 	New trial (rep=0, index=16): {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}
+51.4028 	EXP 	CondicionOff: autoDraw = False
+51.4028 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+51.4028 	EXP 	CondicionOff: height = 0.1
+51.4028 	EXP 	CondicionOff: height = 0.1
+51.4028 	EXP 	CondicionOff: height = 0.1
+51.4028 	EXP 	CondicionOff: text = 33
+51.4028 	EXP 	CondicionOff: autoDraw = True
+52.3728 	EXP 	New trial (rep=0, index=17): {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}
+52.4020 	EXP 	CondicionOff: autoDraw = False
+52.4020 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+52.4020 	EXP 	CondicionOff: height = 0.1
+52.4020 	EXP 	CondicionOff: height = 0.1
+52.4020 	EXP 	CondicionOff: height = 0.1
+52.4020 	EXP 	CondicionOff: text = 35
+52.4020 	EXP 	CondicionOff: autoDraw = True
+53.3736 	EXP 	New trial (rep=0, index=18): {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}
+53.4013 	EXP 	CondicionOff: autoDraw = False
+53.4013 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+53.4013 	EXP 	CondicionOff: height = 0.1
+53.4013 	EXP 	CondicionOff: height = 0.1
+53.4013 	EXP 	CondicionOff: height = 0.1
+53.4013 	EXP 	CondicionOff: text = 37
+53.4013 	EXP 	CondicionOff: autoDraw = True
+54.3894 	EXP 	New trial (rep=0, index=19): {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}
+54.4167 	EXP 	CondicionOff: autoDraw = False
+54.4167 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+54.4167 	EXP 	CondicionOff: height = 0.1
+54.4167 	EXP 	CondicionOff: height = 0.1
+54.4167 	EXP 	CondicionOff: height = 0.1
+54.4167 	EXP 	CondicionOff: text = 39
+54.4167 	EXP 	CondicionOff: autoDraw = True
+55.3994 	EXP 	CondicionOff: autoDraw = False
+55.3994 	EXP 	text: autoDraw = True
+75.3981 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+75.3994 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 20 conditions, 3 params
+75.4001 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+75.4003 	EXP 	New trial (rep=0, index=0): {'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}
+75.4323 	EXP 	text: autoDraw = False
+75.4323 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+75.4323 	EXP 	CondicionOff: height = 0.1
+75.4323 	EXP 	CondicionOff: height = 0.1
+75.4323 	EXP 	CondicionOff: height = 0.1
+75.4323 	EXP 	CondicionOff: text = 1
+75.4323 	EXP 	CondicionOff: autoDraw = True
+76.3868 	EXP 	New trial (rep=0, index=1): {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}
+76.4145 	EXP 	CondicionOff: autoDraw = False
+76.4145 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+76.4145 	EXP 	CondicionOff: height = 0.1
+76.4145 	EXP 	CondicionOff: height = 0.1
+76.4145 	EXP 	CondicionOff: height = 0.1
+76.4145 	EXP 	CondicionOff: text = 3
+76.4145 	EXP 	CondicionOff: autoDraw = True
+77.3839 	EXP 	New trial (rep=0, index=2): {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}
+77.4136 	EXP 	CondicionOff: autoDraw = False
+77.4136 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+77.4136 	EXP 	CondicionOff: height = 0.1
+77.4136 	EXP 	CondicionOff: height = 0.1
+77.4136 	EXP 	CondicionOff: height = 0.1
+77.4136 	EXP 	CondicionOff: text = 5
+77.4136 	EXP 	CondicionOff: autoDraw = True
+78.3855 	EXP 	New trial (rep=0, index=3): {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}
+78.4126 	EXP 	CondicionOff: autoDraw = False
+78.4126 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+78.4126 	EXP 	CondicionOff: height = 0.1
+78.4126 	EXP 	CondicionOff: height = 0.1
+78.4126 	EXP 	CondicionOff: height = 0.1
+78.4126 	EXP 	CondicionOff: text = 7
+78.4126 	EXP 	CondicionOff: autoDraw = True
+79.3828 	EXP 	New trial (rep=0, index=4): {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}
+79.4115 	EXP 	CondicionOff: autoDraw = False
+79.4115 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+79.4115 	EXP 	CondicionOff: height = 0.1
+79.4115 	EXP 	CondicionOff: height = 0.1
+79.4115 	EXP 	CondicionOff: height = 0.1
+79.4115 	EXP 	CondicionOff: text = 9
+79.4115 	EXP 	CondicionOff: autoDraw = True
+80.3834 	EXP 	New trial (rep=0, index=5): {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}
+80.4106 	EXP 	CondicionOff: autoDraw = False
+80.4106 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+80.4106 	EXP 	CondicionOff: height = 0.1
+80.4106 	EXP 	CondicionOff: height = 0.1
+80.4106 	EXP 	CondicionOff: height = 0.1
+80.4106 	EXP 	CondicionOff: text = 11
+80.4106 	EXP 	CondicionOff: autoDraw = True
+81.3973 	EXP 	New trial (rep=0, index=6): {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}
+81.4267 	EXP 	CondicionOff: autoDraw = False
+81.4267 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+81.4267 	EXP 	CondicionOff: height = 0.1
+81.4267 	EXP 	CondicionOff: height = 0.1
+81.4267 	EXP 	CondicionOff: height = 0.1
+81.4267 	EXP 	CondicionOff: text = 13
+81.4267 	EXP 	CondicionOff: autoDraw = True
+82.3814 	EXP 	New trial (rep=0, index=7): {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}
+82.4093 	EXP 	CondicionOff: autoDraw = False
+82.4093 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+82.4093 	EXP 	CondicionOff: height = 0.1
+82.4093 	EXP 	CondicionOff: height = 0.1
+82.4093 	EXP 	CondicionOff: height = 0.1
+82.4093 	EXP 	CondicionOff: text = 15
+82.4093 	EXP 	CondicionOff: autoDraw = True
+83.3955 	EXP 	New trial (rep=0, index=8): {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}
+83.4248 	EXP 	CondicionOff: autoDraw = False
+83.4248 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+83.4248 	EXP 	CondicionOff: height = 0.1
+83.4248 	EXP 	CondicionOff: height = 0.1
+83.4248 	EXP 	CondicionOff: height = 0.1
+83.4248 	EXP 	CondicionOff: text = 17
+83.4248 	EXP 	CondicionOff: autoDraw = True
+84.3776 	EXP 	New trial (rep=0, index=9): {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}
+84.4068 	EXP 	CondicionOff: autoDraw = False
+84.4068 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+84.4068 	EXP 	CondicionOff: height = 0.1
+84.4068 	EXP 	CondicionOff: height = 0.1
+84.4068 	EXP 	CondicionOff: height = 0.1
+84.4068 	EXP 	CondicionOff: text = 19
+84.4068 	EXP 	CondicionOff: autoDraw = True
+85.3771 	EXP 	New trial (rep=0, index=10): {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}
+85.4060 	EXP 	CondicionOff: autoDraw = False
+85.4060 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+85.4060 	EXP 	CondicionOff: height = 0.1
+85.4060 	EXP 	CondicionOff: height = 0.1
+85.4060 	EXP 	CondicionOff: height = 0.1
+85.4060 	EXP 	CondicionOff: text = 21
+85.4060 	EXP 	CondicionOff: autoDraw = True
+86.3773 	EXP 	New trial (rep=0, index=11): {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}
+86.4057 	EXP 	CondicionOff: autoDraw = False
+86.4057 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+86.4057 	EXP 	CondicionOff: height = 0.1
+86.4057 	EXP 	CondicionOff: height = 0.1
+86.4057 	EXP 	CondicionOff: height = 0.1
+86.4057 	EXP 	CondicionOff: text = 23
+86.4057 	EXP 	CondicionOff: autoDraw = True
+87.3752 	EXP 	New trial (rep=0, index=12): {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}
+87.4044 	EXP 	CondicionOff: autoDraw = False
+87.4044 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+87.4044 	EXP 	CondicionOff: height = 0.1
+87.4044 	EXP 	CondicionOff: height = 0.1
+87.4044 	EXP 	CondicionOff: height = 0.1
+87.4044 	EXP 	CondicionOff: text = 25
+87.4044 	EXP 	CondicionOff: autoDraw = True
+88.3745 	EXP 	New trial (rep=0, index=13): {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}
+88.4033 	EXP 	CondicionOff: autoDraw = False
+88.4033 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+88.4033 	EXP 	CondicionOff: height = 0.1
+88.4033 	EXP 	CondicionOff: height = 0.1
+88.4033 	EXP 	CondicionOff: height = 0.1
+88.4033 	EXP 	CondicionOff: text = 27
+88.4033 	EXP 	CondicionOff: autoDraw = True
+89.3733 	EXP 	New trial (rep=0, index=14): {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}
+89.4025 	EXP 	CondicionOff: autoDraw = False
+89.4025 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+89.4025 	EXP 	CondicionOff: height = 0.1
+89.4025 	EXP 	CondicionOff: height = 0.1
+89.4025 	EXP 	CondicionOff: height = 0.1
+89.4025 	EXP 	CondicionOff: text = 29
+89.4025 	EXP 	CondicionOff: autoDraw = True
+90.3908 	EXP 	New trial (rep=0, index=15): {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}
+90.4183 	EXP 	CondicionOff: autoDraw = False
+90.4183 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+90.4183 	EXP 	CondicionOff: height = 0.1
+90.4183 	EXP 	CondicionOff: height = 0.1
+90.4183 	EXP 	CondicionOff: height = 0.1
+90.4183 	EXP 	CondicionOff: text = 31
+90.4183 	EXP 	CondicionOff: autoDraw = True
+91.3900 	EXP 	New trial (rep=0, index=16): {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}
+91.4171 	EXP 	CondicionOff: autoDraw = False
+91.4171 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+91.4171 	EXP 	CondicionOff: height = 0.1
+91.4171 	EXP 	CondicionOff: height = 0.1
+91.4171 	EXP 	CondicionOff: height = 0.1
+91.4171 	EXP 	CondicionOff: text = 33
+91.4171 	EXP 	CondicionOff: autoDraw = True
+92.4036 	EXP 	New trial (rep=0, index=17): {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}
+92.4332 	EXP 	CondicionOff: autoDraw = False
+92.4332 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+92.4332 	EXP 	CondicionOff: height = 0.1
+92.4332 	EXP 	CondicionOff: height = 0.1
+92.4332 	EXP 	CondicionOff: height = 0.1
+92.4332 	EXP 	CondicionOff: text = 35
+92.4332 	EXP 	CondicionOff: autoDraw = True
+93.3879 	EXP 	New trial (rep=0, index=18): {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}
+93.4155 	EXP 	CondicionOff: autoDraw = False
+93.4155 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+93.4155 	EXP 	CondicionOff: height = 0.1
+93.4155 	EXP 	CondicionOff: height = 0.1
+93.4155 	EXP 	CondicionOff: height = 0.1
+93.4155 	EXP 	CondicionOff: text = 37
+93.4155 	EXP 	CondicionOff: autoDraw = True
+94.3868 	EXP 	New trial (rep=0, index=19): {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}
+94.4145 	EXP 	CondicionOff: autoDraw = False
+94.4145 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+94.4145 	EXP 	CondicionOff: height = 0.1
+94.4145 	EXP 	CondicionOff: height = 0.1
+94.4145 	EXP 	CondicionOff: height = 0.1
+94.4145 	EXP 	CondicionOff: text = 39
+94.4145 	EXP 	CondicionOff: autoDraw = True
+95.4160 	EXP 	CondicionOff: autoDraw = False
+95.4160 	EXP 	text_2: autoDraw = True
+115.4118 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+115.4134 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 20 conditions, 3 params
+115.4141 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+115.4144 	EXP 	New trial (rep=0, index=0): {'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}
+115.4297 	EXP 	text_2: autoDraw = False
+115.4297 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+115.4297 	EXP 	CondicionOff: height = 0.1
+115.4297 	EXP 	CondicionOff: height = 0.1
+115.4297 	EXP 	CondicionOff: height = 0.1
+115.4297 	EXP 	CondicionOff: text = 1
+115.4297 	EXP 	CondicionOff: autoDraw = True
+116.3991 	EXP 	New trial (rep=0, index=1): {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}
+116.4287 	EXP 	CondicionOff: autoDraw = False
+116.4287 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+116.4287 	EXP 	CondicionOff: height = 0.1
+116.4287 	EXP 	CondicionOff: height = 0.1
+116.4287 	EXP 	CondicionOff: height = 0.1
+116.4287 	EXP 	CondicionOff: text = 3
+116.4287 	EXP 	CondicionOff: autoDraw = True
+117.3989 	EXP 	New trial (rep=0, index=2): {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}
+117.4287 	EXP 	CondicionOff: autoDraw = False
+117.4287 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+117.4287 	EXP 	CondicionOff: height = 0.1
+117.4287 	EXP 	CondicionOff: height = 0.1
+117.4287 	EXP 	CondicionOff: height = 0.1
+117.4287 	EXP 	CondicionOff: text = 5
+117.4287 	EXP 	CondicionOff: autoDraw = True
+118.3975 	EXP 	New trial (rep=0, index=3): {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}
+118.4271 	EXP 	CondicionOff: autoDraw = False
+118.4271 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+118.4271 	EXP 	CondicionOff: height = 0.1
+118.4271 	EXP 	CondicionOff: height = 0.1
+118.4271 	EXP 	CondicionOff: height = 0.1
+118.4271 	EXP 	CondicionOff: text = 7
+118.4271 	EXP 	CondicionOff: autoDraw = True
+119.3803 	EXP 	New trial (rep=0, index=4): {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}
+119.4100 	EXP 	CondicionOff: autoDraw = False
+119.4100 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+119.4100 	EXP 	CondicionOff: height = 0.1
+119.4100 	EXP 	CondicionOff: height = 0.1
+119.4100 	EXP 	CondicionOff: height = 0.1
+119.4100 	EXP 	CondicionOff: text = 9
+119.4100 	EXP 	CondicionOff: autoDraw = True
+120.3803 	EXP 	New trial (rep=0, index=5): {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}
+120.4090 	EXP 	CondicionOff: autoDraw = False
+120.4090 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+120.4090 	EXP 	CondicionOff: height = 0.1
+120.4090 	EXP 	CondicionOff: height = 0.1
+120.4090 	EXP 	CondicionOff: height = 0.1
+120.4090 	EXP 	CondicionOff: text = 11
+120.4090 	EXP 	CondicionOff: autoDraw = True
+121.3951 	EXP 	New trial (rep=0, index=6): {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}
+121.4243 	EXP 	CondicionOff: autoDraw = False
+121.4243 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+121.4243 	EXP 	CondicionOff: height = 0.1
+121.4243 	EXP 	CondicionOff: height = 0.1
+121.4243 	EXP 	CondicionOff: height = 0.1
+121.4243 	EXP 	CondicionOff: text = 13
+121.4243 	EXP 	CondicionOff: autoDraw = True
+122.3947 	EXP 	New trial (rep=0, index=7): {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}
+122.4235 	EXP 	CondicionOff: autoDraw = False
+122.4235 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+122.4235 	EXP 	CondicionOff: height = 0.1
+122.4235 	EXP 	CondicionOff: height = 0.1
+122.4235 	EXP 	CondicionOff: height = 0.1
+122.4235 	EXP 	CondicionOff: text = 15
+122.4235 	EXP 	CondicionOff: autoDraw = True
+123.3784 	EXP 	New trial (rep=0, index=8): {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}
+123.4062 	EXP 	CondicionOff: autoDraw = False
+123.4062 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+123.4062 	EXP 	CondicionOff: height = 0.1
+123.4062 	EXP 	CondicionOff: height = 0.1
+123.4062 	EXP 	CondicionOff: height = 0.1
+123.4062 	EXP 	CondicionOff: text = 17
+123.4062 	EXP 	CondicionOff: autoDraw = True
+124.3765 	EXP 	New trial (rep=0, index=9): {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}
+124.4056 	EXP 	CondicionOff: autoDraw = False
+124.4056 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+124.4056 	EXP 	CondicionOff: height = 0.1
+124.4056 	EXP 	CondicionOff: height = 0.1
+124.4056 	EXP 	CondicionOff: height = 0.1
+124.4056 	EXP 	CondicionOff: text = 19
+124.4056 	EXP 	CondicionOff: autoDraw = True
+125.3766 	EXP 	New trial (rep=0, index=10): {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}
+125.4044 	EXP 	CondicionOff: autoDraw = False
+125.4044 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+125.4044 	EXP 	CondicionOff: height = 0.1
+125.4044 	EXP 	CondicionOff: height = 0.1
+125.4044 	EXP 	CondicionOff: height = 0.1
+125.4044 	EXP 	CondicionOff: text = 21
+125.4044 	EXP 	CondicionOff: autoDraw = True
+126.3909 	EXP 	New trial (rep=0, index=11): {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}
+126.4204 	EXP 	CondicionOff: autoDraw = False
+126.4204 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+126.4204 	EXP 	CondicionOff: height = 0.1
+126.4204 	EXP 	CondicionOff: height = 0.1
+126.4204 	EXP 	CondicionOff: height = 0.1
+126.4204 	EXP 	CondicionOff: text = 23
+126.4204 	EXP 	CondicionOff: autoDraw = True
+127.3734 	EXP 	New trial (rep=0, index=12): {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}
+127.4030 	EXP 	CondicionOff: autoDraw = False
+127.4030 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+127.4030 	EXP 	CondicionOff: height = 0.1
+127.4030 	EXP 	CondicionOff: height = 0.1
+127.4030 	EXP 	CondicionOff: height = 0.1
+127.4030 	EXP 	CondicionOff: text = 25
+127.4030 	EXP 	CondicionOff: autoDraw = True
+128.3896 	EXP 	New trial (rep=0, index=13): {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}
+128.4163 	EXP 	CondicionOff: autoDraw = False
+128.4163 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+128.4163 	EXP 	CondicionOff: height = 0.1
+128.4163 	EXP 	CondicionOff: height = 0.1
+128.4163 	EXP 	CondicionOff: height = 0.1
+128.4163 	EXP 	CondicionOff: text = 27
+128.4163 	EXP 	CondicionOff: autoDraw = True
+129.3900 	EXP 	New trial (rep=0, index=14): {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}
+129.4181 	EXP 	CondicionOff: autoDraw = False
+129.4181 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+129.4181 	EXP 	CondicionOff: height = 0.1
+129.4181 	EXP 	CondicionOff: height = 0.1
+129.4181 	EXP 	CondicionOff: height = 0.1
+129.4181 	EXP 	CondicionOff: text = 29
+129.4181 	EXP 	CondicionOff: autoDraw = True
+130.3861 	EXP 	New trial (rep=0, index=15): {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}
+130.4151 	EXP 	CondicionOff: autoDraw = False
+130.4151 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+130.4151 	EXP 	CondicionOff: height = 0.1
+130.4151 	EXP 	CondicionOff: height = 0.1
+130.4151 	EXP 	CondicionOff: height = 0.1
+130.4151 	EXP 	CondicionOff: text = 31
+130.4151 	EXP 	CondicionOff: autoDraw = True
+131.3850 	EXP 	New trial (rep=0, index=16): {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}
+131.4139 	EXP 	CondicionOff: autoDraw = False
+131.4139 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+131.4139 	EXP 	CondicionOff: height = 0.1
+131.4139 	EXP 	CondicionOff: height = 0.1
+131.4139 	EXP 	CondicionOff: height = 0.1
+131.4139 	EXP 	CondicionOff: text = 33
+131.4139 	EXP 	CondicionOff: autoDraw = True
+132.3843 	EXP 	New trial (rep=0, index=17): {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}
+132.4132 	EXP 	CondicionOff: autoDraw = False
+132.4132 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+132.4132 	EXP 	CondicionOff: height = 0.1
+132.4132 	EXP 	CondicionOff: height = 0.1
+132.4132 	EXP 	CondicionOff: height = 0.1
+132.4132 	EXP 	CondicionOff: text = 35
+132.4132 	EXP 	CondicionOff: autoDraw = True
+133.3831 	EXP 	New trial (rep=0, index=18): {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}
+133.4121 	EXP 	CondicionOff: autoDraw = False
+133.4121 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+133.4121 	EXP 	CondicionOff: height = 0.1
+133.4121 	EXP 	CondicionOff: height = 0.1
+133.4121 	EXP 	CondicionOff: height = 0.1
+133.4121 	EXP 	CondicionOff: text = 37
+133.4121 	EXP 	CondicionOff: autoDraw = True
+134.3835 	EXP 	New trial (rep=0, index=19): {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}
+134.4120 	EXP 	CondicionOff: autoDraw = False
+134.4120 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+134.4120 	EXP 	CondicionOff: height = 0.1
+134.4120 	EXP 	CondicionOff: height = 0.1
+134.4120 	EXP 	CondicionOff: height = 0.1
+134.4120 	EXP 	CondicionOff: text = 39
+134.4120 	EXP 	CondicionOff: autoDraw = True
+135.3946 	EXP 	CondicionOff: autoDraw = False
+135.3946 	EXP 	text_3: autoDraw = True
+155.3880 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+155.3895 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 20 conditions, 3 params
+155.3901 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+155.3903 	EXP 	New trial (rep=0, index=0): {'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}
+155.4095 	EXP 	text_3: autoDraw = False
+155.4095 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+155.4095 	EXP 	CondicionOff: height = 0.1
+155.4095 	EXP 	CondicionOff: height = 0.1
+155.4095 	EXP 	CondicionOff: height = 0.1
+155.4095 	EXP 	CondicionOff: text = 1
+155.4095 	EXP 	CondicionOff: autoDraw = True
+156.3799 	EXP 	New trial (rep=0, index=1): {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}
+156.4091 	EXP 	CondicionOff: autoDraw = False
+156.4091 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+156.4091 	EXP 	CondicionOff: height = 0.1
+156.4091 	EXP 	CondicionOff: height = 0.1
+156.4091 	EXP 	CondicionOff: height = 0.1
+156.4091 	EXP 	CondicionOff: text = 3
+156.4091 	EXP 	CondicionOff: autoDraw = True
+157.3792 	EXP 	New trial (rep=0, index=2): {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}
+157.4080 	EXP 	CondicionOff: autoDraw = False
+157.4080 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+157.4080 	EXP 	CondicionOff: height = 0.1
+157.4080 	EXP 	CondicionOff: height = 0.1
+157.4080 	EXP 	CondicionOff: height = 0.1
+157.4080 	EXP 	CondicionOff: text = 5
+157.4080 	EXP 	CondicionOff: autoDraw = True
+158.3779 	EXP 	New trial (rep=0, index=3): {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}
+158.4069 	EXP 	CondicionOff: autoDraw = False
+158.4069 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+158.4069 	EXP 	CondicionOff: height = 0.1
+158.4069 	EXP 	CondicionOff: height = 0.1
+158.4069 	EXP 	CondicionOff: height = 0.1
+158.4069 	EXP 	CondicionOff: text = 7
+158.4069 	EXP 	CondicionOff: autoDraw = True
+159.3777 	EXP 	New trial (rep=0, index=4): {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}
+159.4064 	EXP 	CondicionOff: autoDraw = False
+159.4064 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+159.4064 	EXP 	CondicionOff: height = 0.1
+159.4064 	EXP 	CondicionOff: height = 0.1
+159.4064 	EXP 	CondicionOff: height = 0.1
+159.4064 	EXP 	CondicionOff: text = 9
+159.4064 	EXP 	CondicionOff: autoDraw = True
+160.3776 	EXP 	New trial (rep=0, index=5): {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}
+160.4053 	EXP 	CondicionOff: autoDraw = False
+160.4053 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+160.4053 	EXP 	CondicionOff: height = 0.1
+160.4053 	EXP 	CondicionOff: height = 0.1
+160.4053 	EXP 	CondicionOff: height = 0.1
+160.4053 	EXP 	CondicionOff: text = 11
+160.4053 	EXP 	CondicionOff: autoDraw = True
+161.3756 	EXP 	New trial (rep=0, index=6): {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}
+161.4043 	EXP 	CondicionOff: autoDraw = False
+161.4043 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+161.4043 	EXP 	CondicionOff: height = 0.1
+161.4043 	EXP 	CondicionOff: height = 0.1
+161.4043 	EXP 	CondicionOff: height = 0.1
+161.4043 	EXP 	CondicionOff: text = 13
+161.4043 	EXP 	CondicionOff: autoDraw = True
+162.3765 	EXP 	New trial (rep=0, index=7): {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}
+162.4038 	EXP 	CondicionOff: autoDraw = False
+162.4038 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+162.4038 	EXP 	CondicionOff: height = 0.1
+162.4038 	EXP 	CondicionOff: height = 0.1
+162.4038 	EXP 	CondicionOff: height = 0.1
+162.4038 	EXP 	CondicionOff: text = 15
+162.4038 	EXP 	CondicionOff: autoDraw = True
+163.3745 	EXP 	New trial (rep=0, index=8): {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}
+163.4024 	EXP 	CondicionOff: autoDraw = False
+163.4024 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+163.4024 	EXP 	CondicionOff: height = 0.1
+163.4024 	EXP 	CondicionOff: height = 0.1
+163.4024 	EXP 	CondicionOff: height = 0.1
+163.4024 	EXP 	CondicionOff: text = 17
+163.4024 	EXP 	CondicionOff: autoDraw = True
+164.3887 	EXP 	New trial (rep=0, index=9): {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}
+164.4114 	EXP 	CondicionOff: autoDraw = False
+164.4114 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+164.4114 	EXP 	CondicionOff: height = 0.1
+164.4114 	EXP 	CondicionOff: height = 0.1
+164.4114 	EXP 	CondicionOff: height = 0.1
+164.4114 	EXP 	CondicionOff: text = 19
+164.4114 	EXP 	CondicionOff: autoDraw = True
+165.3994 	EXP 	New trial (rep=0, index=10): {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}
+165.4277 	EXP 	CondicionOff: autoDraw = False
+165.4277 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+165.4277 	EXP 	CondicionOff: height = 0.1
+165.4277 	EXP 	CondicionOff: height = 0.1
+165.4277 	EXP 	CondicionOff: height = 0.1
+165.4277 	EXP 	CondicionOff: text = 21
+165.4277 	EXP 	CondicionOff: autoDraw = True
+166.3974 	EXP 	New trial (rep=0, index=11): {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}
+166.4143 	EXP 	CondicionOff: autoDraw = False
+166.4143 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+166.4143 	EXP 	CondicionOff: height = 0.1
+166.4143 	EXP 	CondicionOff: height = 0.1
+166.4143 	EXP 	CondicionOff: height = 0.1
+166.4143 	EXP 	CondicionOff: text = 23
+166.4143 	EXP 	CondicionOff: autoDraw = True
+167.3891 	EXP 	New trial (rep=0, index=12): {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}
+167.4156 	EXP 	CondicionOff: autoDraw = False
+167.4156 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+167.4156 	EXP 	CondicionOff: height = 0.1
+167.4156 	EXP 	CondicionOff: height = 0.1
+167.4156 	EXP 	CondicionOff: height = 0.1
+167.4156 	EXP 	CondicionOff: text = 25
+167.4156 	EXP 	CondicionOff: autoDraw = True
+168.3851 	EXP 	New trial (rep=0, index=13): {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}
+168.4139 	EXP 	CondicionOff: autoDraw = False
+168.4139 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+168.4139 	EXP 	CondicionOff: height = 0.1
+168.4139 	EXP 	CondicionOff: height = 0.1
+168.4139 	EXP 	CondicionOff: height = 0.1
+168.4139 	EXP 	CondicionOff: text = 27
+168.4139 	EXP 	CondicionOff: autoDraw = True
+169.3797 	EXP 	New trial (rep=0, index=14): {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}
+169.3966 	EXP 	CondicionOff: autoDraw = False
+169.3966 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+169.3966 	EXP 	CondicionOff: height = 0.1
+169.3966 	EXP 	CondicionOff: height = 0.1
+169.3966 	EXP 	CondicionOff: height = 0.1
+169.3966 	EXP 	CondicionOff: text = 29
+169.3966 	EXP 	CondicionOff: autoDraw = True
+170.3945 	EXP 	New trial (rep=0, index=15): {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}
+170.4113 	EXP 	CondicionOff: autoDraw = False
+170.4113 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+170.4113 	EXP 	CondicionOff: height = 0.1
+170.4113 	EXP 	CondicionOff: height = 0.1
+170.4113 	EXP 	CondicionOff: height = 0.1
+170.4113 	EXP 	CondicionOff: text = 31
+170.4113 	EXP 	CondicionOff: autoDraw = True
+171.3791 	EXP 	New trial (rep=0, index=16): {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}
+171.4201 	EXP 	CondicionOff: autoDraw = False
+171.4201 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+171.4201 	EXP 	CondicionOff: height = 0.1
+171.4201 	EXP 	CondicionOff: height = 0.1
+171.4201 	EXP 	CondicionOff: height = 0.1
+171.4201 	EXP 	CondicionOff: text = 33
+171.4201 	EXP 	CondicionOff: autoDraw = True
+172.3833 	EXP 	New trial (rep=0, index=17): {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}
+172.4124 	EXP 	CondicionOff: autoDraw = False
+172.4124 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+172.4124 	EXP 	CondicionOff: height = 0.1
+172.4124 	EXP 	CondicionOff: height = 0.1
+172.4124 	EXP 	CondicionOff: height = 0.1
+172.4124 	EXP 	CondicionOff: text = 35
+172.4124 	EXP 	CondicionOff: autoDraw = True
+173.3911 	EXP 	New trial (rep=0, index=18): {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}
+173.4134 	EXP 	CondicionOff: autoDraw = False
+173.4134 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+173.4134 	EXP 	CondicionOff: height = 0.1
+173.4134 	EXP 	CondicionOff: height = 0.1
+173.4134 	EXP 	CondicionOff: height = 0.1
+173.4134 	EXP 	CondicionOff: text = 37
+173.4134 	EXP 	CondicionOff: autoDraw = True
+174.3794 	EXP 	New trial (rep=0, index=19): {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}
+174.4198 	EXP 	CondicionOff: autoDraw = False
+174.4198 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+174.4198 	EXP 	CondicionOff: height = 0.1
+174.4198 	EXP 	CondicionOff: height = 0.1
+174.4198 	EXP 	CondicionOff: height = 0.1
+174.4198 	EXP 	CondicionOff: text = 39
+174.4198 	EXP 	CondicionOff: autoDraw = True
+175.4100 	EXP 	CondicionOff: autoDraw = False
+175.4100 	EXP 	text_4: autoDraw = True
+195.3892 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+195.3912 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 20 conditions, 3 params
+195.3920 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+195.3922 	EXP 	New trial (rep=0, index=0): {'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}
+195.4084 	EXP 	text_4: autoDraw = False
+195.4084 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+195.4084 	EXP 	CondicionOff: height = 0.1
+195.4084 	EXP 	CondicionOff: height = 0.1
+195.4084 	EXP 	CondicionOff: height = 0.1
+195.4084 	EXP 	CondicionOff: text = 1
+195.4084 	EXP 	CondicionOff: autoDraw = True
+196.3830 	EXP 	New trial (rep=0, index=1): {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}
+196.4077 	EXP 	CondicionOff: autoDraw = False
+196.4077 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+196.4077 	EXP 	CondicionOff: height = 0.1
+196.4077 	EXP 	CondicionOff: height = 0.1
+196.4077 	EXP 	CondicionOff: height = 0.1
+196.4077 	EXP 	CondicionOff: text = 3
+196.4077 	EXP 	CondicionOff: autoDraw = True
+197.3940 	EXP 	New trial (rep=0, index=2): {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}
+197.4235 	EXP 	CondicionOff: autoDraw = False
+197.4235 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+197.4235 	EXP 	CondicionOff: height = 0.1
+197.4235 	EXP 	CondicionOff: height = 0.1
+197.4235 	EXP 	CondicionOff: height = 0.1
+197.4235 	EXP 	CondicionOff: text = 5
+197.4235 	EXP 	CondicionOff: autoDraw = True
+198.3768 	EXP 	New trial (rep=0, index=3): {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}
+198.4060 	EXP 	CondicionOff: autoDraw = False
+198.4060 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+198.4060 	EXP 	CondicionOff: height = 0.1
+198.4060 	EXP 	CondicionOff: height = 0.1
+198.4060 	EXP 	CondicionOff: height = 0.1
+198.4060 	EXP 	CondicionOff: text = 7
+198.4060 	EXP 	CondicionOff: autoDraw = True
+199.3802 	EXP 	New trial (rep=0, index=4): {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}
+199.4055 	EXP 	CondicionOff: autoDraw = False
+199.4055 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+199.4055 	EXP 	CondicionOff: height = 0.1
+199.4055 	EXP 	CondicionOff: height = 0.1
+199.4055 	EXP 	CondicionOff: height = 0.1
+199.4055 	EXP 	CondicionOff: text = 9
+199.4055 	EXP 	CondicionOff: autoDraw = True
+200.3919 	EXP 	New trial (rep=0, index=5): {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}
+200.4208 	EXP 	CondicionOff: autoDraw = False
+200.4208 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+200.4208 	EXP 	CondicionOff: height = 0.1
+200.4208 	EXP 	CondicionOff: height = 0.1
+200.4208 	EXP 	CondicionOff: height = 0.1
+200.4208 	EXP 	CondicionOff: text = 11
+200.4208 	EXP 	CondicionOff: autoDraw = True
+201.3747 	EXP 	New trial (rep=0, index=6): {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}
+201.4034 	EXP 	CondicionOff: autoDraw = False
+201.4034 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+201.4034 	EXP 	CondicionOff: height = 0.1
+201.4034 	EXP 	CondicionOff: height = 0.1
+201.4034 	EXP 	CondicionOff: height = 0.1
+201.4034 	EXP 	CondicionOff: text = 13
+201.4034 	EXP 	CondicionOff: autoDraw = True
+202.3769 	EXP 	New trial (rep=0, index=7): {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}
+202.4026 	EXP 	CondicionOff: autoDraw = False
+202.4026 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+202.4026 	EXP 	CondicionOff: height = 0.1
+202.4026 	EXP 	CondicionOff: height = 0.1
+202.4026 	EXP 	CondicionOff: height = 0.1
+202.4026 	EXP 	CondicionOff: text = 15
+202.4026 	EXP 	CondicionOff: autoDraw = True
+203.3769 	EXP 	New trial (rep=0, index=8): {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}
+203.4017 	EXP 	CondicionOff: autoDraw = False
+203.4017 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+203.4017 	EXP 	CondicionOff: height = 0.1
+203.4017 	EXP 	CondicionOff: height = 0.1
+203.4017 	EXP 	CondicionOff: height = 0.1
+203.4017 	EXP 	CondicionOff: text = 17
+203.4017 	EXP 	CondicionOff: autoDraw = True
+204.3878 	EXP 	New trial (rep=0, index=9): {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}
+204.4174 	EXP 	CondicionOff: autoDraw = False
+204.4174 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+204.4174 	EXP 	CondicionOff: height = 0.1
+204.4174 	EXP 	CondicionOff: height = 0.1
+204.4174 	EXP 	CondicionOff: height = 0.1
+204.4174 	EXP 	CondicionOff: text = 19
+204.4174 	EXP 	CondicionOff: autoDraw = True
+205.3908 	EXP 	New trial (rep=0, index=10): {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}
+205.4168 	EXP 	CondicionOff: autoDraw = False
+205.4168 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+205.4168 	EXP 	CondicionOff: height = 0.1
+205.4168 	EXP 	CondicionOff: height = 0.1
+205.4168 	EXP 	CondicionOff: height = 0.1
+205.4168 	EXP 	CondicionOff: text = 21
+205.4168 	EXP 	CondicionOff: autoDraw = True
+206.3735 	EXP 	New trial (rep=0, index=11): {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}
+206.3986 	EXP 	CondicionOff: autoDraw = False
+206.3986 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+206.3986 	EXP 	CondicionOff: height = 0.1
+206.3986 	EXP 	CondicionOff: height = 0.1
+206.3986 	EXP 	CondicionOff: height = 0.1
+206.3986 	EXP 	CondicionOff: text = 23
+206.3986 	EXP 	CondicionOff: autoDraw = True
+207.3897 	EXP 	New trial (rep=0, index=12): {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}
+207.4148 	EXP 	CondicionOff: autoDraw = False
+207.4148 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+207.4148 	EXP 	CondicionOff: height = 0.1
+207.4148 	EXP 	CondicionOff: height = 0.1
+207.4148 	EXP 	CondicionOff: height = 0.1
+207.4148 	EXP 	CondicionOff: text = 25
+207.4148 	EXP 	CondicionOff: autoDraw = True
+208.3850 	EXP 	New trial (rep=0, index=13): {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}
+208.4139 	EXP 	CondicionOff: autoDraw = False
+208.4139 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+208.4139 	EXP 	CondicionOff: height = 0.1
+208.4139 	EXP 	CondicionOff: height = 0.1
+208.4139 	EXP 	CondicionOff: height = 0.1
+208.4139 	EXP 	CondicionOff: text = 27
+208.4139 	EXP 	CondicionOff: autoDraw = True
+209.3874 	EXP 	New trial (rep=0, index=14): {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}
+209.4130 	EXP 	CondicionOff: autoDraw = False
+209.4130 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+209.4130 	EXP 	CondicionOff: height = 0.1
+209.4130 	EXP 	CondicionOff: height = 0.1
+209.4130 	EXP 	CondicionOff: height = 0.1
+209.4130 	EXP 	CondicionOff: text = 29
+209.4130 	EXP 	CondicionOff: autoDraw = True
+210.3882 	EXP 	New trial (rep=0, index=15): {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}
+210.4123 	EXP 	CondicionOff: autoDraw = False
+210.4123 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+210.4123 	EXP 	CondicionOff: height = 0.1
+210.4123 	EXP 	CondicionOff: height = 0.1
+210.4123 	EXP 	CondicionOff: height = 0.1
+210.4123 	EXP 	CondicionOff: text = 31
+210.4123 	EXP 	CondicionOff: autoDraw = True
+211.3862 	EXP 	New trial (rep=0, index=16): {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}
+211.4113 	EXP 	CondicionOff: autoDraw = False
+211.4113 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+211.4113 	EXP 	CondicionOff: height = 0.1
+211.4113 	EXP 	CondicionOff: height = 0.1
+211.4113 	EXP 	CondicionOff: height = 0.1
+211.4113 	EXP 	CondicionOff: text = 33
+211.4113 	EXP 	CondicionOff: autoDraw = True
+212.3817 	EXP 	New trial (rep=0, index=17): {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}
+212.4106 	EXP 	CondicionOff: autoDraw = False
+212.4106 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+212.4106 	EXP 	CondicionOff: height = 0.1
+212.4106 	EXP 	CondicionOff: height = 0.1
+212.4106 	EXP 	CondicionOff: height = 0.1
+212.4106 	EXP 	CondicionOff: text = 35
+212.4106 	EXP 	CondicionOff: autoDraw = True
+213.3868 	EXP 	New trial (rep=0, index=18): {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}
+213.4098 	EXP 	CondicionOff: autoDraw = False
+213.4098 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+213.4098 	EXP 	CondicionOff: height = 0.1
+213.4098 	EXP 	CondicionOff: height = 0.1
+213.4098 	EXP 	CondicionOff: height = 0.1
+213.4098 	EXP 	CondicionOff: text = 37
+213.4098 	EXP 	CondicionOff: autoDraw = True
+214.3829 	EXP 	New trial (rep=0, index=19): {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}
+214.4087 	EXP 	CondicionOff: autoDraw = False
+214.4087 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+214.4087 	EXP 	CondicionOff: height = 0.1
+214.4087 	EXP 	CondicionOff: height = 0.1
+214.4087 	EXP 	CondicionOff: height = 0.1
+214.4087 	EXP 	CondicionOff: text = 39
+214.4087 	EXP 	CondicionOff: autoDraw = True
+215.4127 	EXP 	CondicionOff: autoDraw = False
+215.4127 	EXP 	text_5: autoDraw = True
+235.3959 	DEBUG 	Read excel file with openpyxl: CondicionesExperimento.xlsx
+235.3976 	EXP 	Imported CondicionesExperimento.xlsx as conditions, 20 conditions, 3 params
+235.3985 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+235.3994 	EXP 	New trial (rep=0, index=0): {'PreguntaOn': '¿Recuerda el recorrido que realiza desde su cama hasta la cocina de su residencia?', 'PreguntaOff': 1, 'Colors': 'green'}
+235.4325 	EXP 	text_5: autoDraw = False
+235.4325 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+235.4325 	EXP 	CondicionOff: height = 0.1
+235.4325 	EXP 	CondicionOff: height = 0.1
+235.4325 	EXP 	CondicionOff: height = 0.1
+235.4325 	EXP 	CondicionOff: text = 1
+235.4325 	EXP 	CondicionOff: autoDraw = True
+236.3797 	EXP 	New trial (rep=0, index=1): {'PreguntaOn': '¿Recuerda el trayecto que hace desde su casa hasta su lugar de trabajo?', 'PreguntaOff': 3, 'Colors': 'red'}
+236.4148 	EXP 	CondicionOff: autoDraw = False
+236.4148 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+236.4148 	EXP 	CondicionOff: height = 0.1
+236.4148 	EXP 	CondicionOff: height = 0.1
+236.4148 	EXP 	CondicionOff: height = 0.1
+236.4148 	EXP 	CondicionOff: text = 3
+236.4148 	EXP 	CondicionOff: autoDraw = True
+237.3768 	EXP 	New trial (rep=0, index=2): {'PreguntaOn': '¿Recuerda  algún inconveniente que ha  experimentado en el camino de su residencia a su lugar de trabajo?', 'PreguntaOff': 5, 'Colors': 'white'}
+237.4027 	EXP 	CondicionOff: autoDraw = False
+237.4027 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+237.4027 	EXP 	CondicionOff: height = 0.1
+237.4027 	EXP 	CondicionOff: height = 0.1
+237.4027 	EXP 	CondicionOff: height = 0.1
+237.4027 	EXP 	CondicionOff: text = 5
+237.4027 	EXP 	CondicionOff: autoDraw = True
+238.3761 	EXP 	New trial (rep=0, index=3): {'PreguntaOn': '¿Recuerda si hay algún lugar u objeto en su camino hacia el trabajo que le llame la atención?', 'PreguntaOff': 7, 'Colors': 'blue'}
+238.4027 	EXP 	CondicionOff: autoDraw = False
+238.4027 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+238.4027 	EXP 	CondicionOff: height = 0.1
+238.4027 	EXP 	CondicionOff: height = 0.1
+238.4027 	EXP 	CondicionOff: height = 0.1
+238.4027 	EXP 	CondicionOff: text = 7
+238.4027 	EXP 	CondicionOff: autoDraw = True
+239.3896 	EXP 	New trial (rep=0, index=4): {'PreguntaOn': ' ¿Recuerda el recorrido desde la entrada de su lugar de trabajo hasta su oficina, donde realiza sus funciones?', 'PreguntaOff': 9, 'Colors': 'yellow'}
+239.4191 	EXP 	CondicionOff: autoDraw = False
+239.4191 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+239.4191 	EXP 	CondicionOff: height = 0.1
+239.4191 	EXP 	CondicionOff: height = 0.1
+239.4191 	EXP 	CondicionOff: height = 0.1
+239.4191 	EXP 	CondicionOff: text = 9
+239.4191 	EXP 	CondicionOff: autoDraw = True
+240.3897 	EXP 	New trial (rep=0, index=5): {'PreguntaOn': '¿Recuerda alguna actividad que realice durante los viajes de regreso a casa desde el trabajo para relajarse?', 'PreguntaOff': 11, 'Colors': 'orange'}
+240.4194 	EXP 	CondicionOff: autoDraw = False
+240.4194 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+240.4194 	EXP 	CondicionOff: height = 0.1
+240.4194 	EXP 	CondicionOff: height = 0.1
+240.4194 	EXP 	CondicionOff: height = 0.1
+240.4194 	EXP 	CondicionOff: text = 11
+240.4194 	EXP 	CondicionOff: autoDraw = True
+241.3730 	EXP 	New trial (rep=0, index=6): {'PreguntaOn': '¿Recuerda el trayecto que realiza desde su casa hasta el lugar donde realiza sus compras?', 'PreguntaOff': 13, 'Colors': 'brown'}
+241.4034 	EXP 	CondicionOff: autoDraw = False
+241.4034 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+241.4034 	EXP 	CondicionOff: height = 0.1
+241.4034 	EXP 	CondicionOff: height = 0.1
+241.4034 	EXP 	CondicionOff: height = 0.1
+241.4034 	EXP 	CondicionOff: text = 13
+241.4034 	EXP 	CondicionOff: autoDraw = True
+242.3751 	EXP 	New trial (rep=0, index=7): {'PreguntaOn': '¿Recuerda alguna situación divertida o interesante que haya experimentado durante el recorrido hacia el lugar de compras?', 'PreguntaOff': 15, 'Colors': 'purple'}
+242.4250 	EXP 	CondicionOff: autoDraw = False
+242.4250 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+242.4250 	EXP 	CondicionOff: height = 0.1
+242.4250 	EXP 	CondicionOff: height = 0.1
+242.4250 	EXP 	CondicionOff: height = 0.1
+242.4250 	EXP 	CondicionOff: text = 15
+242.4250 	EXP 	CondicionOff: autoDraw = True
+243.3745 	EXP 	New trial (rep=0, index=8): {'PreguntaOn': ' ¿Recuerda qué es lo primero que ve al llegar al lugar donde realiza sus compras?', 'PreguntaOff': 17, 'Colors': 'green'}
+243.3987 	EXP 	CondicionOff: autoDraw = False
+243.3987 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+243.3987 	EXP 	CondicionOff: height = 0.1
+243.3987 	EXP 	CondicionOff: height = 0.1
+243.3987 	EXP 	CondicionOff: height = 0.1
+243.3987 	EXP 	CondicionOff: text = 17
+243.3987 	EXP 	CondicionOff: autoDraw = True
+244.3785 	EXP 	New trial (rep=0, index=9): {'PreguntaOn': '¿Recuerda el recorrido desde su residencia hasta el centro de resonancia magnética?', 'PreguntaOff': 19, 'Colors': 'red'}
+244.4349 	EXP 	CondicionOff: autoDraw = False
+244.4349 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+244.4349 	EXP 	CondicionOff: height = 0.1
+244.4349 	EXP 	CondicionOff: height = 0.1
+244.4349 	EXP 	CondicionOff: height = 0.1
+244.4349 	EXP 	CondicionOff: text = 19
+244.4349 	EXP 	CondicionOff: autoDraw = True
+245.3865 	EXP 	New trial (rep=0, index=10): {'PreguntaOn': None, 'PreguntaOff': 21, 'Colors': 'white'}
+245.4146 	EXP 	CondicionOff: autoDraw = False
+245.4146 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+245.4146 	EXP 	CondicionOff: height = 0.1
+245.4146 	EXP 	CondicionOff: height = 0.1
+245.4146 	EXP 	CondicionOff: height = 0.1
+245.4146 	EXP 	CondicionOff: text = 21
+245.4146 	EXP 	CondicionOff: autoDraw = True
+246.4012 	EXP 	New trial (rep=0, index=11): {'PreguntaOn': None, 'PreguntaOff': 23, 'Colors': 'blue'}
+246.4308 	EXP 	CondicionOff: autoDraw = False
+246.4308 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+246.4308 	EXP 	CondicionOff: height = 0.1
+246.4308 	EXP 	CondicionOff: height = 0.1
+246.4308 	EXP 	CondicionOff: height = 0.1
+246.4308 	EXP 	CondicionOff: text = 23
+246.4308 	EXP 	CondicionOff: autoDraw = True
+247.3836 	EXP 	New trial (rep=0, index=12): {'PreguntaOn': None, 'PreguntaOff': 25, 'Colors': 'yellow'}
+247.4134 	EXP 	CondicionOff: autoDraw = False
+247.4134 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: yellow, alpha=1.0>
+247.4134 	EXP 	CondicionOff: height = 0.1
+247.4134 	EXP 	CondicionOff: height = 0.1
+247.4134 	EXP 	CondicionOff: height = 0.1
+247.4134 	EXP 	CondicionOff: text = 25
+247.4134 	EXP 	CondicionOff: autoDraw = True
+248.3993 	EXP 	New trial (rep=0, index=13): {'PreguntaOn': None, 'PreguntaOff': 27, 'Colors': 'orange'}
+248.4285 	EXP 	CondicionOff: autoDraw = False
+248.4285 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: orange, alpha=1.0>
+248.4285 	EXP 	CondicionOff: height = 0.1
+248.4285 	EXP 	CondicionOff: height = 0.1
+248.4285 	EXP 	CondicionOff: height = 0.1
+248.4285 	EXP 	CondicionOff: text = 27
+248.4285 	EXP 	CondicionOff: autoDraw = True
+249.3885 	EXP 	New trial (rep=0, index=14): {'PreguntaOn': None, 'PreguntaOff': 29, 'Colors': 'brown'}
+249.4549 	EXP 	CondicionOff: autoDraw = False
+249.4549 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: brown, alpha=1.0>
+249.4549 	EXP 	CondicionOff: height = 0.1
+249.4549 	EXP 	CondicionOff: height = 0.1
+249.4549 	EXP 	CondicionOff: height = 0.1
+249.4549 	EXP 	CondicionOff: text = 29
+249.4549 	EXP 	CondicionOff: autoDraw = True
+250.3806 	EXP 	New trial (rep=0, index=15): {'PreguntaOn': None, 'PreguntaOff': 31, 'Colors': 'purple'}
+250.4164 	EXP 	CondicionOff: autoDraw = False
+250.4164 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: purple, alpha=1.0>
+250.4164 	EXP 	CondicionOff: height = 0.1
+250.4164 	EXP 	CondicionOff: height = 0.1
+250.4164 	EXP 	CondicionOff: height = 0.1
+250.4164 	EXP 	CondicionOff: text = 31
+250.4164 	EXP 	CondicionOff: autoDraw = True
+251.3794 	EXP 	New trial (rep=0, index=16): {'PreguntaOn': None, 'PreguntaOff': 33, 'Colors': 'green'}
+251.4077 	EXP 	CondicionOff: autoDraw = False
+251.4077 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+251.4077 	EXP 	CondicionOff: height = 0.1
+251.4077 	EXP 	CondicionOff: height = 0.1
+251.4077 	EXP 	CondicionOff: height = 0.1
+251.4077 	EXP 	CondicionOff: text = 33
+251.4077 	EXP 	CondicionOff: autoDraw = True
+252.3812 	EXP 	New trial (rep=0, index=17): {'PreguntaOn': None, 'PreguntaOff': 35, 'Colors': 'red'}
+252.4071 	EXP 	CondicionOff: autoDraw = False
+252.4071 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+252.4071 	EXP 	CondicionOff: height = 0.1
+252.4071 	EXP 	CondicionOff: height = 0.1
+252.4071 	EXP 	CondicionOff: height = 0.1
+252.4071 	EXP 	CondicionOff: text = 35
+252.4071 	EXP 	CondicionOff: autoDraw = True
+253.3801 	EXP 	New trial (rep=0, index=18): {'PreguntaOn': None, 'PreguntaOff': 37, 'Colors': 'white'}
+253.4064 	EXP 	CondicionOff: autoDraw = False
+253.4064 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+253.4064 	EXP 	CondicionOff: height = 0.1
+253.4064 	EXP 	CondicionOff: height = 0.1
+253.4064 	EXP 	CondicionOff: height = 0.1
+253.4064 	EXP 	CondicionOff: text = 37
+253.4064 	EXP 	CondicionOff: autoDraw = True
+254.3778 	EXP 	New trial (rep=0, index=19): {'PreguntaOn': None, 'PreguntaOff': 39, 'Colors': 'blue'}
+254.4060 	EXP 	CondicionOff: autoDraw = False
+254.4060 	EXP 	CondicionOff: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+254.4060 	EXP 	CondicionOff: height = 0.1
+254.4060 	EXP 	CondicionOff: height = 0.1
+254.4060 	EXP 	CondicionOff: height = 0.1
+254.4060 	EXP 	CondicionOff: text = 39
+254.4060 	EXP 	CondicionOff: autoDraw = True
+255.4059 	EXP 	CondicionOff: autoDraw = False
+255.4059 	EXP 	text_6: autoDraw = True
+257.2578 	DATA 	Mouse: Left button down, pos=(1252,363)
+257.4936 	DATA 	Mouse:  Left button up, pos=(1252,363)
+268.4289 	DATA 	Mouse: Left button down, pos=(1252,294)
+268.6514 	DATA 	Mouse:  Left button up, pos=(1252,294)
+269.1184 	DATA 	Keypress: escape
+269.2163 	EXP 	ArchivoPrueba: status = STOPPED
+269.2282 	EXP 	text_6: autoDraw = False
+269.2319 	EXP 	ArchivoPrueba: status = STOPPED
+269.2870 	INFO 	saved data to 'C:\\Users\\andre\\Desktop\\Imagenes\\Gihub_andres_medina\\ImagenesMedicas\\Taller_unidad3\\data/293388_ArchivoPrueba_2024-04-30_18h07.01.763.csv'
+269.2915 	INFO 	saved data to C:\Users\andre\Desktop\Imagenes\Gihub_andres_medina\ImagenesMedicas\Taller_unidad3\data/293388_ArchivoPrueba_2024-04-30_18h07.01.763.psydat
+269.3748 	EXP 	window1: mouseVisible = True
+269.7561 	DEBUG 	Saving data for ArchivoPrueba ExperimentHandler

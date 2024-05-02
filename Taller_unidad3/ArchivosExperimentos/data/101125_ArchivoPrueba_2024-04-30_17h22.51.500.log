@@ -1,0 +1,85 @@
+30.3508 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+30.3530 	INFO 	Loaded monitor calibration from ['2024_04_12 16:30']
+35.2841 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F5651008B0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F565100850>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1., -1., -1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F5651006A0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001F5654B9C70>, multiSample=False, name='window1', numSamples=2, pos=[192.0, 108.0], screen=0, size=array([1536,  864]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+35.2843 	EXP 	window1: mouseVisible = True
+35.2843 	EXP 	window1: backgroundImage = ''
+35.2843 	EXP 	window1: backgroundFit = 'none'
+35.2846 	EXP 	window1: mouseVisible = True
+35.2849 	EXP 	window1: mouseVisible = True
+35.3262 	EXP 	window1: mouseVisible = True
+35.3279 	EXP 	window1: mouseVisible = True
+35.4117 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4154 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4190 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4248 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4309 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4341 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4378 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4448 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4478 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4503 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4538 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4602 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4637 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4674 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4720 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4774 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4810 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4836 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4864 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4925 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4951 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.4998 	DEBUG 	Uploading Texture Font fontname to graphics card
+35.5420 	DEBUG 	Upload of Texture Font fontname complete
+35.5462 	EXP 	window1: mouseVisible = True
+35.5465 	EXP 	window1: mouseVisible = True
+35.5478 	EXP 	window1: mouseVisible = True
+35.5493 	EXP 	window1: mouseVisible = True
+35.5750 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.5799 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.5844 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+35.5848 	DEBUG 	Uploading Texture Font fontname to graphics card
+35.6144 	DEBUG 	Upload of Texture Font fontname complete
+35.6182 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+35.6182 	EXP 	window1: recordFrameIntervals = False
+35.9637 	EXP 	window1: recordFrameIntervals = True
+36.0772 	WARNING 	t of last frame was 47.03ms (=1/21)
+36.2467 	EXP 	Screen (0) actual frame rate measured at 59.16Hz
+36.2467 	EXP 	window1: recordFrameIntervals = False
+36.2469 	EXP 	window1: mouseVisible = False
+36.2480 	EXP 	window1: mouseVisible = True
+36.2483 	EXP 	window1: mouseVisible = True
+36.2494 	EXP 	window1: mouseVisible = True
+36.2503 	EXP 	window1: mouseVisible = True
+36.2754 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2785 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2825 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2875 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2935 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2993 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.3023 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.3084 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.3129 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.3171 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.3175 	DEBUG 	Uploading Texture Font fontname to graphics card
+36.3405 	DEBUG 	Upload of Texture Font fontname complete
+36.3448 	EXP 	window1: mouseVisible = True
+36.3450 	EXP 	window1: mouseVisible = True
+36.3460 	EXP 	window1: mouseVisible = True
+36.3479 	EXP 	window1: mouseVisible = True
+36.7014 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+45.8116 	INFO 	keyboard.Keyboard is using iohub backend.
+45.8116 	EXP 	ArchivoPrueba: status = STARTED
+45.8120 	EXP 	window1: mouseVisible = True
+46.7294 	EXP 	Created introducción = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='introducción', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+46.7295 	EXP 	window1: mouseVisible = True
+46.7298 	EXP 	window1: mouseVisible = True
+46.7352 	EXP 	Created CondicionOn = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='CondicionOn', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+46.7354 	EXP 	window1: mouseVisible = True
+46.7386 	EXP 	Created CondicionOff = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='CondicionOff', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+46.7388 	EXP 	window1: mouseVisible = True
+46.7875 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+46.8531 	EXP 	window1: mouseVisible = True
+46.8589 	DEBUG 	Saving data for ArchivoPrueba ExperimentHandler
+46.8603 	INFO 	saved data to C:\Users\andre\Desktop\Imagenes\Gihub_andres_medina\ImagenesMedicas\Taller_unidad3\data/101125_ArchivoPrueba_2024-04-30_17h22.51.500.psydat
+46.8622 	INFO 	saved data to 'C:\\Users\\andre\\Desktop\\Imagenes\\Gihub_andres_medina\\ImagenesMedicas\\Taller_unidad3\\data/101125_ArchivoPrueba_2024-04-30_17h22.51.500.csv'
